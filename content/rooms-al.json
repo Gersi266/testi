@@ -8,7 +8,7 @@
     "rooms": [
       {
         "id": 1,
-        "name": "Dhomë Teke",
+        "name": "Dhomë cift me dy krevate tek",
         "description": "Dhomat tona të rehatshme Teke janë perfekte për udhëtarët e vetëm, duke ofruar të gjitha pajisjet thelbësore në një hapësirë të ngrohtë, të dizajnuar mirë.",
         "price": 60,
         "size": 35,
@@ -30,7 +30,7 @@
       },
       {
         "id": 2,
-        "name": "Dhomë Dyshe",
+        "name": "Dhomë Dyshe me krevat dopio",
         "description": "E dizajnuar për çifte ose miq që udhëtojnë së bashku, Dhomat tona Dyshe ofrojnë një ekuilibër perfekt të rehatisë dhe stilit.",
         "price": 67,
         "size": 35,
