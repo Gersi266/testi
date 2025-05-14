@@ -1,0 +1,201 @@
+{
+  "hero": {
+    "slides": [
+      {
+        "image": "/images/hero-1.jpg",
+        "title": "Welcome to Panorama Resort Elbasan",
+        "subtitle": "A place to relax, experience, and enjoy unforgettable moments.",
+        "buttonText": "About Us",
+        "buttonLink": "/about"
+      },
+      {
+        "image": "/images/hero-2.jpg",
+        "title": "Resort Panorama Elbasan – Elegance and Relaxation in the Heart of Albania",
+        "subtitle": "Modern rooms with panoramic views for an unforgettable stay.",
+        "buttonText": "Our Rooms",
+        "buttonLink": "/rooms"
+      },
+      {
+        "image": "/images/hero-3.jpg",
+        "title": "Unique experiences and relaxing spaces",
+        "subtitle": "Our rich facilities and unique activities await you for an unforgettable experience.",
+        "buttonText": "Activities",
+        "buttonLink": "/activities"
+      }
+    ]
+  },
+  "welcome": {
+    "title": "Welcome to Panorama Resort",
+    "description": "Nestled in a peaceful and natural setting, Panorama Resort offers the perfect escape where comfort, relaxation, and nature come together in harmony. Whether you're seeking a quiet retreat or outdoor adventures, here you'll find the ideal place for an unforgettable stay.",
+    "button": "Explore More"
+  },
+  "features": {
+    "title": "Resort Features",
+    "subtitle": "Discover what makes our resort special",
+    "items": [
+      {
+        "icon": "🛏️",
+        "title": "Elegance and relaxation in every stay",
+        "description": "Relax in comfortable, stylishly designed rooms, crafted to offer you maximum comfort and tranquility in the heart of nature."
+      },
+      {
+        "icon": "🍽️",
+        "title": "Authentic Albanian Flavors",
+        "description": "Savor traditional Albanian cuisine at our restaurant, where authentic recipes are crafted with fresh, local ingredients, bringing you true flavors and heartfelt hospitality."
+      },
+      {
+        "icon": "🏇",
+        "title": "Unique activities and experiences",
+        "description": "Relax by the pool, explore the surrounding nature, or experience the thrill of horse riding. Panorama Resort offers activities and experiences for every age and every passion, making every stay truly special."
+      }
+    ]
+  },
+  "roomsSection": {
+    "title": "Rooms & Amenities",
+    "subtitle": "Our rooms are designed to offer a relaxing and comfortable stay, whether you're traveling solo, as a couple, or with your family.\nEvery space reflects warmth, functionality, and the calming atmosphere of our natural surroundings.\nEach room includes comfortable beds, a private bathroom, free Wi-Fi, and beautiful views of the surrounding area — everything you need for a peaceful and pleasant stay.",
+    "viewAllText": "View All Rooms",
+    "rooms": [
+      {
+        "id": 1,
+        "name": "Double Room",
+        "description": "Ideal for couples or friends traveling together seeking peace and privacy.",
+        "price": "60€",
+        "image": "/images/Double-1.png"
+      },
+      {
+        "id": 2,
+        "name": "Double Room with SPA",
+        "description": "Ideal for couples seeking peace and privacy.",
+        "price": "67€",
+        "image": "/images/Doublee-1.png"
+      },
+      {
+        "id": 3,
+        "name": "Family Room",
+        "description": "Spacious and comfortable for families with children.",
+        "price": "80€",
+        "image": "/images/Family-1.png"
+      }
+    ]
+  },
+  "activitiesSection": {
+    "title": "Relaxation and experiences, all in one place",
+    "subtitle": "From warm pools and saunas to horse riding and natural surroundings — here, relaxation and adventure go hand in hand.",
+    "viewAllText": "View All Activities",
+    "activities": [
+      {
+        "id": 1,
+        "title": "Outdoor Pool with Nature & City Views",
+        "description": "Cool off and unwind in our outdoor pool, where the calm of nature meets panoramic views of Elbasan.",
+        "image": "/images/pool-1.jpg",
+        "duration": "Open daily",
+        "difficulty": "All levels"
+      },
+      {
+        "id": 2,
+        "title": "Sauna & Relaxation",
+        "description": "Let the stress melt away",
+        "image": "/images/Sauna-1.jpg",
+        "duration": "By appointment",
+        "difficulty": "All levels"
+      },
+      {
+        "id": 3,
+        "title": "A Unique Experience, Right at the Resort",
+        "description": "Enjoy the charm of horse riding in a dedicated space within Panorama Resort. It's a calm, enjoyable activity suitable for all ages — no experience needed, just a love for nature and animals",
+        "image": "/images/horsee-1.jpg",
+        "duration": "24/7 access",
+        "difficulty": "All levels"
+      }
+    ]
+  },
+  "menuSection": {
+    "title": "A Taste of Our Menu",
+    "subtitle": "Explore a selection of our finest dishes, crafted with fresh ingredients and culinary expertise.",
+    "viewMenuText": "View Full Menu",
+    "menuItems": [
+      {
+        "id": 1,
+        "name": "Village Salad",
+        "description": "Fresh tomatoes, cucumbers, peppers, olives, and feta cheese with olive oil",
+        "price": "€8",
+        "image": "/images/menu/village-salad.jpg",
+        "category": "Salads"
+      },
+      {
+        "id": 2,
+        "name": "Seafood Risotto",
+        "description": "Creamy risotto with fresh seafood and herbs",
+        "price": "€16",
+        "image": "/images/menu/seafood-risotto.webp",
+        "category": "Pasta & Risotto"
+      },
+      {
+        "id": 3,
+        "name": "Grilled Sea Bass",
+        "description": "Fresh sea bass grilled to perfection with lemon and herbs",
+        "price": "€22",
+        "image": "/images/menu/sea-bass.jpg",
+        "category": "Fish"
+      },
+      {
+        "id": 4,
+        "name": "Beef Steak",
+        "description": "Premium cut beef steak cooked to your preference",
+        "price": "€25",
+        "image": "/images/menu/tomahawk-steak.jpg",
+        "category": "Meat"
+      },
+      {
+        "id": 5,
+        "name": "Tiramisu",
+        "description": "Classic Italian dessert with coffee-soaked ladyfingers and mascarpone cream",
+        "price": "€7",
+        "image": "/images/menu/tiramisu.webp",
+        "category": "Desserts"
+      },
+      {
+        "id": 6,
+        "name": "Margherita Pizza",
+        "description": "Traditional pizza with tomato sauce, mozzarella, and fresh basil",
+        "price": "€12",
+        "image": "/images/menu/margherita.jpg",
+        "category": "Pizza"
+      }
+    ]
+  },
+  "testimonialsSection": {
+    "title": "What Our Guests Say",
+    "subtitle": "Don't just take our word for it — see what our visitors have to say about their stay at Panorama Resort.",
+    "testimonials": [
+      {
+        "name": "John Smith",
+        "location": "New York, USA",
+        "rating": 5,
+        "quote": "We had an amazing stay at Panorama Resort. The views were breathtaking, the staff was incredibly friendly and attentive, and the food was outstanding.",
+        "date": "2 weeks ago"
+      },
+      {
+        "name": "Sarah Johnson",
+        "location": "London, UK",
+        "rating": 5,
+        "quote": "The perfect getaway! The room was spacious and comfortable, and the pool area was so relaxing. We'll definitely be coming back.",
+        "date": "1 month ago"
+      },
+      {
+        "name": "Michael Brown",
+        "location": "Berlin, Germany",
+        "rating": 4,
+        "quote": "Great resort with excellent amenities. The spa treatments were top-notch, and the mountain views from our room were spectacular.",
+        "date": "3 months ago"
+      }
+    ]
+  },
+  "ctaSection": {
+    "title": "Ready to Experience Paradise?",
+    "subtitle": "Book your stay now and enjoy our special offers",
+    "buttonText": "Book Now",
+    "buttonLink": "https://www.see-albania.com/hotel/hotel-panorama-spa-elbasan",
+    "backgroundImage": "/images/about-us.jpg"
+  }
+}

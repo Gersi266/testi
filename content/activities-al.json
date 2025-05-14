@@ -1,0 +1,89 @@
+{
+  "hero": {
+    "title": "Eksperienca Që E Bëjnë Qëndrimin Tuaj Special",
+    "subtitle": "Nga momente të qeta në natyrë deri te aktivitete të jashtme plot energji, Panorama Resort ofron diçka për të gjithë për të shijuar.",
+    "image": "/images/breathe-2.jpg"
+  },
+  "activitiesSection": {
+    "title": "Eksploroni Aktivitetet Tona",
+    "subtitle": "Qoftë për t'u çlodhur apo për të eksploruar, gama jonë e aktiviteteve është projektuar për ta bërë çdo moment të paharrueshëm.",
+    "activities": [
+      {
+        "id": 1,
+        "title": "Pishina e Jashtme me Pamje nga Natyra dhe Qyteti",
+        "name": "Pishina e Jashtme me Pamje nga Natyra dhe Qyteti",
+        "description": "Freskohuni dhe çlodhuni në pishinën tonë të jashtme, ku natyra takon pamjet panoramike të Elbasanit.",
+        "longDescription": "E gjerë dhe e rrethuar nga gjelbërimi, pishina jonë është vendi ideal për të shijuar diellin dhe qetësinë. Nga shezllonet apo gjatë një noti të lehtë, mund të shijoni pamje mahnitëse të kodrave dhe qytetit. Një zonë e veçantë për fëmijët e bën të përshtatshme për familje, ndërsa në mbrëmje ndriçimi i ngrohtë krijon një atmosferë të qetë për një zhytje nën dritën e yjeve.",
+        "image": "/images/pool-1.jpg",
+        "additionalImages": ["/images/pool-2.jpg", "/images/pool-3.jpg", "/images/pool-4.jpg", "/images/pool-5.jpg"],
+        "icon": "M21 9v10a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V9m18 0a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2m18 0v2H3V9M7 14h.01M17 14h.01",
+        "hours": "7:00 - 22:00",
+        "location": "Zona Kryesore e Resortit",
+        "price": "Falas për mysafirët",
+        "duration": "Hapur çdo ditë",
+        "difficulty": "Të gjitha nivelet"
+      },
+      {
+        "id": 2,
+        "title": "Sauna & Relaksim",
+        "name": "Sauna & Relaksim",
+        "description": "Lini pas stresin e përditshëm",
+        "longDescription": "Sauna jonë e ngrohtë është vendi ideal për të çlodhur trupin dhe mendjen. Perfekte përpara apo pas pishinës, apo thjesht si një moment relaksi të vërtetë.",
+        "image": "/images/Sauna-1.jpg",
+        "additionalImages": ["/images/Sauna-2.jpg"],
+        "icon": "M21 12c0 4.418-4.03 8-9 8s-9-3.582-9-8M12 4v16M3 9h18",
+        "hours": "9:00 - 20:00",
+        "location": "Krahu i Mirëqenies",
+        "price": "Falas për mysafirët",
+        "duration": "Me rezervim",
+        "difficulty": "Të gjitha nivelet"
+      },
+      {
+        "id": 3,
+        "title": "Kalërim",
+        "name": "Kalërim",
+        "description": "Një përvojë unike, brenda vetë resortit",
+        "longDescription": "Shijoni kalërimin në hapësirën tonë të dedikuar brenda Panorama Resort. Një aktivitet i qetë dhe i këndshëm për të gjitha moshat — nuk kërkohet përvojë, vetëm dashuri për natyrën dhe kafshët.",
+        "image": "/images/Horsee-1.jpg",
+        "additionalImages": ["/images/horse-1.jpg", "/images/horse-2.jpg", "/images/horse-3.jpg"],
+        "icon": "M18 8h1a4 4 0 0 1 0 8h-1M2 8h16v9a4 4 0 0 1-4 4H6a4 4 0 0 1-4-4V8zM6 1v3M10 1v3M14 1v3",
+        "hours": "9:00 - 18:00",
+        "location": "Terrenet e Resortit",
+        "price": "Duke filluar nga 25€ për orë",
+        "duration": "Sesione 1-orëshe",
+        "difficulty": "Të gjitha nivelet"
+      },
+      {
+        "id": 4,
+        "title": "Pishinë e Brendshme",
+        "name": "Pishinë e Brendshme",
+        "description": "Freskohuni dhe çlodhuni në pishinën tonë të brendshme, perfekte për relaksim pavarësisht motit jashtë.",
+        "longDescription": "E gjerë dhe e rrethuar nga gjelbërimi, pishina jonë e brendshme është vendi ideal për t'u relaksuar në çdo mot. Qoftë duke shijuar një not të qetë apo thjesht duke pushuar pranë pishinës, atmosfera është gjithmonë e rehatshme dhe mikpritëse. Një zonë e veçantë për fëmijët e bën të përshtatshme për familje, dhe pishina është e ndriçuar bukur, duke krijuar një ambient të qetë për një not relaksues në çdo kohë të ditës.",
+        "image": "/images/in-pool.jpg",
+        "additionalImages": ["/images/i-pool.jpg"],
+        "icon": "M3 3h18v18H3zM3 9h18M9 21V9",
+        "hours": "6:00 - 23:00",
+        "location": "Ndërtesa Kryesore, Niveli i Poshtëm",
+        "price": "Falas për mysafirët",
+        "duration": "Hapur çdo ditë",
+        "difficulty": "Të gjitha nivelet"
+      },
+      {
+        "id": 5,
+        "title": "Hiking",
+        "name": "Hiking",
+        "description": "Eksploroni bukuritë natyrore përreth Panorama Resort me ture të udhëzuara hiking.",
+        "longDescription": "Përqafoni bukurinë natyrore që rrethon resortin tonë me turet tona të udhëzuara hiking. Udhëzuesit tanë me përvojë do t'ju drejtojnë nëpër shtigje piktoreske që tregojnë florën dhe faunën e larmishme të rajonit. Shtigjet janë të disponueshme për të gjitha nivelet e aftësive, nga ecje të lehta deri në hiking më sfiduese. Pajisjet dhe pijet freskuese ofrohen, duke siguruar një përvojë të rehatshme dhe të këndshme. Zbuloni pika pamjeje të fshehura dhe kapni panorama mahnitëse të peizazhit shqiptar.",
+        "image": "/images/breathe-2.jpg",
+        "additionalImages": ["/images/breathe-2.jpg"],
+        "icon": "M9 19V6l12-3v13M9 19c0 1.105-1.343 2-3 2s-3-.895-3-2 1.343-2 3-2 3 .895 3 2zm12-3c0 1.105-1.343 2-3 2s-3-.895-3-2 1.343-2 3-2 3 .895 3 2zM9 10l12-3",
+        "hours": "Turet nisen në 9:00 dhe 14:00 çdo ditë",
+        "location": "Recepsioni i Resortit (Pika e Takimit)",
+        "price": "Duke filluar nga 15€ për person",
+        "duration": "2-4 orë",
+        "difficulty": "Të gjitha nivelet"
+      }
+    ]
+  },
+  "bookingLink": "https://www.see-albania.com/hotel/hotel-panorama-spa-elbasan"
+}

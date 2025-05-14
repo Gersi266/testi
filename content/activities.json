@@ -1,0 +1,74 @@
+{
+  "hero": {
+    "title": "Experiences That Make Your Stay Special",
+    "subtitle": "From peaceful moments in nature to outdoor activities full of energy, Panorama Resort offers something for everyone to enjoy.",
+    "image": "/images/breathe-2.jpg"
+  },
+  "activitiesSection": {
+    "title": "Explore Our Activities",
+    "subtitle": "Whether you're here to unwind or explore, our range of activities is designed to make every moment unforgettable.",
+    "activities": [
+      {
+        "id": 1,
+        "name": "Outdoor Pool with Nature & City Views",
+        "description": "Cool off and unwind in our outdoor pool, where the calm of nature meets panoramic views of Elbasan.",
+        "longDescription": "Spacious and surrounded by greenery, our pool is the perfect place to relax under the sun. Whether you're enjoying a quiet swim or simply lounging poolside, the views stretch across the hills and the city below. A separate children's area makes it family-friendly, and in the evening, the pool glows under warm lighting — creating a serene setting for a sunset or night swim.",
+        "image": "/images/pool-1.jpg",
+        "additionalImages": ["/images/pool-2.jpg", "/images/pool-3.jpg", "/images/pool-4.jpg", "/images/pool-5.jpg"],
+        "icon": "M21 9v10a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V9m18 0a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2m18 0v2H3V9M7 14h.01M17 14h.01",
+        "hours": "7:00 AM - 10:00 PM",
+        "location": "Main Resort Area",
+        "price": "Complimentary for guests"
+      },
+      {
+        "id": 2,
+        "name": "Sauna & Relaxation",
+        "description": "Let the stress melt away",
+        "longDescription": "Our cozy sauna is the perfect place to unwind, improve circulation, and enjoy a deep sense of calm. Ideal before or after a swim, or simply as a moment of personal peace.",
+        "image": "/images/Sauna-1.jpg",
+        "additionalImages": ["/images/Sauna-2.jpg"],
+        "icon": "M21 12c0 4.418-4.03 8-9 8s-9-3.582-9-8M12 4v16M3 9h18",
+        "hours": "9:00 AM - 8:00 PM",
+        "location": "Wellness Wing",
+        "price": "Complimentary for guests"
+      },
+      {
+        "id": 3,
+        "name": "Horse Riding",
+        "description": "A Unique Experience, Right at the Resort",
+        "longDescription": "Enjoy the charm of horse riding in a dedicated space within Panorama Resort. It's a calm, enjoyable activity suitable for all ages — no experience needed, just a love for nature and animals.",
+        "image": "/images/horsee-1.jpg",
+        "additionalImages": ["/images/horse-1.jpg", "/images/horse-2.jpg", "/images/horse-3.jpg"],
+        "icon": "M18 8h1a4 4 0 0 1 0 8h-1M2 8h16v9a4 4 0 0 1-4 4H6a4 4 0 0 1-4-4V8zM6 1v3M10 1v3M14 1v3",
+        "hours": "9:00 AM - 6:00 PM",
+        "location": "Resort Grounds",
+        "price": "Starting at 25€ per hour"
+      },
+      {
+        "id": 4,
+        "name": "Indoor Swimming Pool",
+        "description": "Cool off and unwind in our indoor pool, perfect for relaxation regardless of the weather outside.",
+        "longDescription": "Spacious and surrounded by greenery, our indoor pool is the perfect place to relax in any weather. Whether you're enjoying a quiet swim or simply lounging poolside, the atmosphere is always comfortable and inviting. A separate children's area makes it family-friendly, and the pool is beautifully illuminated, creating a serene setting for a relaxing swim any time of day.",
+        "image": "/images/in-pool.jpg",
+        "additionalImages": ["/images/i-pool.jpg"],
+        "icon": "M3 3h18v18H3zM3 9h18M9 21V9",
+        "hours": "6:00 AM - 11:00 PM",
+        "location": "Main Building, Lower Level",
+        "price": "Complimentary for guests"
+      },
+      {
+        "id": 5,
+        "name": "Hiking",
+        "description": "Explore the beautiful natural surroundings of Panorama Resort with guided hiking tours.",
+        "longDescription": "Embrace the natural beauty surrounding our resort with our guided hiking tours. Our experienced guides will lead you through scenic trails that showcase the region's diverse flora and fauna. Trails are available for all skill levels, from gentle walks to more challenging hikes. Equipment and refreshments are provided, ensuring a comfortable and enjoyable experience. Discover hidden viewpoints and capture breathtaking panoramas of the Albanian landscape.",
+        "image": "/images/breathe-2.jpg",
+        "additionalImages": ["/images/breathe-3.jpg"],
+        "icon": "M9 19V6l12-3v13M9 19c0 1.105-1.343 2-3 2s-3-.895-3-2 1.343-2 3-2 3 .895 3 2zM9 10l12-3",
+        "hours": "Tours depart at 9:00 AM and 2:00 PM daily",
+        "location": "Resort Reception (Meeting Point)",
+        "price": "Starting at 15€ per person"
+      }
+    ]
+  },
+  "bookingLink": "https://www.see-albania.com/hotel/hotel-panorama-spa-elbasan"
+}

@@ -1,0 +1,1113 @@
+{
+  "hero": {
+    "title": "Our Dining Experience",
+    "image": "/images/menu-generic.jpeg"
+  },
+  "disclaimer": {
+    "title": "Please Note:",
+    "text": "The photos are illustrative. We do not accept off-menu orders. Please let us know if you have any food allergies!"
+  },
+  "overview": {
+    "title": "Traditional Flavors, Fresh Ingredients, Warm Hospitality",
+    "description": "At Panorama Resort, every dish tells a story. Our kitchen focuses on authentic Albanian recipes made with fresh, local ingredients — offering you a taste of tradition in every bite. From comforting classics to regional favorites, our menu celebrates the richness of Albanian cuisine in a cozy, welcoming setting."
+  },
+  "dining": {
+    "options": [
+      {
+        "icon": "👨🏻‍🍳",
+        "title": "Main Restaurant",
+        "description": "Enjoy a variety of traditional Albanian dishes and comforting homemade meals served in a warm and welcoming setting."
+      },
+      {
+        "icon": "🍹",
+        "title": "Balcony Bar & Lounge",
+        "description": "Take a break with a drink or light snack on our scenic balcony — a cozy spot to relax and enjoy fresh air with views over Elbasan."
+      },
+      {
+        "icon": "🍽️",
+        "title": "Family-Style Dining",
+        "description": "Experience the joy of sharing meals, with rustic dishes and generous portions meant to bring people together around the table."
+      }
+    ]
+  },
+  "categoryNav": {
+    "title": "Menu Categories",
+    "allText": "All"
+  },
+  "categories": [
+    {
+      "id": "appetizers",
+      "name": "Appetizers",
+      "description": "Start your culinary journey with our selection of appetizers.",
+      "image": "/images/menu/menu-appetizers.jpg",
+      "items": [
+        {
+          "name": "Italian Antipasto",
+          "description": "Mix ham & cheese",
+          "price": 1200,
+          "image": "/images/menu/italian-antipasto.jpg"
+        },
+        {
+          "name": "Mix of Cheeses",
+          "description": "Selection of local and imported cheeses",
+          "price": 700,
+          "image": "/images/menu/cheese-platter.jpg"
+        },
+        {
+          "name": "Sautéed Spinach",
+          "description": "Fresh spinach sautéed with garlic and olive oil",
+          "price": 300,
+          "image": "/images/menu/sauteed-spinach.jpg"
+        },
+        {
+          "name": "Fresh Mushrooms",
+          "description": "Mushrooms fried or grilled to your preference",
+          "price": 400,
+          "image": "/images/menu/grilled-vegetables.jpg"
+        },
+        {
+          "name": "Bruschetta Mix",
+          "description": "Assortment of bruschetta with various toppings",
+          "price": 250,
+          "image": "/images/menu/bruschetta.jpg"
+        }
+      ]
+    },
+    {
+      "id": "salads",
+      "name": "Salads",
+      "description": "Fresh and healthy salads made with locally sourced ingredients.",
+      "image": "/images/menu-salads.jpg",
+      "items": [
+        {
+          "name": "Village Salad",
+          "description": "Tomatoes, cucumbers, peppers, onions, olives",
+          "price": 300,
+          "image": "/images/menu/village-salad.jpg"
+        },
+        {
+          "name": "Aragula Salad",
+          "description": "Arugula, grana, tomatoes",
+          "price": 300,
+          "image": "/images/menu/aragula-salad.jpg"
+        },
+        {
+          "name": "Boiled/Grilled Vegetables",
+          "description": "Eggplant, pumpkin, tomato, onion, carrot",
+          "price": 400,
+          "image": "/images/menu/boiled-vegetables.jpg"
+        },
+        {
+          "name": "Caesar Salad",
+          "description": "Mozzarella, tomatoes, arugula, eggs, bacon",
+          "price": 450,
+          "image": "/images/menu/caesar-salad.jpg"
+        },
+        {
+          "name": "Panorama Salad",
+          "description": "Red/white lettuce, carrots, corn, S. green, arugula, cucumber, tomatoes",
+          "price": 450,
+          "image": "/images/menu/panorama-salad.jpg"
+        },
+        {
+          "name": "Pickled Salad",
+          "description": "Assortment of pickled vegetables with a tangy dressing",
+          "price": 200,
+          "image": "/images/menu/pickled-salad.jpeg"
+        },
+        {
+          "name": "Olive Salad",
+          "description": "Mixed olives with herbs and seasonings",
+          "price": 200,
+          "image": "/images/menu/olive-salad.jpeg"
+        },
+        {
+          "name": "Stuffed Baked Vegetables",
+          "description": "Seasonal vegetables stuffed with a savory filling and baked",
+          "price": 400,
+          "image": "/images/menu/stuffed-vegetables.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "soup",
+      "name": "Soups",
+      "description": "Hearty and flavorful soups prepared fresh daily.",
+      "image": "/images/menu-soup.jpg",
+      "items": [
+        {
+          "name": "Chicken Soup",
+          "description": "Traditional chicken soup with vegetables",
+          "price": 300,
+          "image": "/images/menu/chicken-soup.jpeg"
+        },
+        {
+          "name": "Vegetable Soup",
+          "description": "Seasonal vegetables in a light broth with herbs",
+          "price": 250,
+          "image": "/images/menu/vegetable-soup.jpg"
+        },
+        {
+          "name": "Fish Soup",
+          "description": "Mediterranean-style fish soup with fresh seafood",
+          "price": 300,
+          "image": "/images/menu/fish-soup.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "pasta-risotto",
+      "name": "Pasta & Risotto",
+      "description": "Authentic Italian pasta and creamy risotto dishes.",
+      "image": "/images/menu-pasta-risotto.jpg",
+      "items": [
+        {
+          "name": "Ravioli with Shrimp & Truffle",
+          "description": "Homemade ravioli filled with shrimp and truffle",
+          "price": 700,
+          "image": "/images/menu/shrimp-ravioli.jpg"
+        },
+        {
+          "name": "Tagliatelle with Shrimp, Pumpkin, Tomato",
+          "description": "Tagliatelle pasta with shrimp, pumpkin, and fresh tomatoes",
+          "price": 700,
+          "image": "/images/menu/tagliatelle-shrimp.jpeg"
+        },
+        {
+          "name": "Seafood Spaghetti",
+          "description": "Spaghetti with mixed seafood in a light sauce",
+          "price": 600,
+          "image": "/images/menu/seafood-spaghetti.jpeg"
+        },
+        {
+          "name": "Spaghetti Carbonara",
+          "description": "Classic carbonara with pancetta, egg, and cheese",
+          "price": 600,
+          "image": "/images/menu/carbonara.jpg"
+        },
+        {
+          "name": "Penne Arrabiata",
+          "description": "Penne pasta with spicy tomato sauce",
+          "price": 600,
+          "image": "/images/menu/penne-arrabiata.jpg"
+        },
+        {
+          "name": "Risotto with Shrimp & Pumpkin",
+          "description": "Creamy risotto with shrimp and roasted pumpkin",
+          "price": 600,
+          "image": "/images/menu/shrimp-pumpkin-risotto.jpg"
+        },
+        {
+          "name": "Seafood Risotto",
+          "description": "Creamy risotto with mixed seafood",
+          "price": 600,
+          "image": "/images/menu/seafood-risotto.webp"
+        }
+      ]
+    },
+    {
+      "id": "fish",
+      "name": "Fish",
+      "description": "Fresh seafood prepared with Mediterranean influences.",
+      "image": "/images/menu-fish.jpg",
+      "items": [
+        {
+          "name": "Sea Bream Grilled",
+          "description": "Fresh sea bream grilled to perfection",
+          "price": 1000,
+          "image": "/images/menu/sea-bream.jpg"
+        },
+        {
+          "name": "Sea Bass Grilled",
+          "description": "Fresh sea bass grilled with herbs and lemon",
+          "price": 1000,
+          "image": "/images/menu/sea-bass.jpg"
+        },
+        {
+          "name": "Shrimp Grilled/Crudi",
+          "description": "Shrimp prepared grilled or raw to your preference",
+          "price": 1200,
+          "image": "/images/menu/grilled-shrimp.webp"
+        },
+        {
+          "name": "Baked Sea Bass with Vegetables",
+          "description": "Whole sea bass baked with seasonal vegetables",
+          "price": 1400,
+          "image": "/images/menu/baked-sea-bass.jpeg"
+        },
+        {
+          "name": "Grilled Salmon or with Orange Sauce",
+          "description": "Fresh salmon grilled or served with a citrus orange sauce",
+          "price": 1400,
+          "image": "/images/menu/salmon.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "meat",
+      "name": "Meat",
+      "description": "Premium cuts of meat prepared to perfection.",
+      "image": "/images/menu-meat.jpg",
+      "items": [
+        {
+          "name": "Grilled Goat Meat 500 gr",
+          "description": "Tender goat meat grilled to perfection",
+          "price": 1500,
+          "image": "/images/menu/goat-meat.jpeg"
+        },
+        {
+          "name": "Lamb Meat 500 gr",
+          "description": "Grilled, wood sac, or ribs - prepared to your preference",
+          "price": 1400,
+          "image": "/images/menu/lamb-meat.jpg"
+        },
+        {
+          "name": "Beef Meat 500 gr",
+          "description": "Steak or ribs - prepared to your preference",
+          "price": 1300,
+          "image": "/images/menu/tomahawk-steak.jpg"
+        },
+        {
+          "name": "Pork Meat 500 gr",
+          "description": "Steak or ribs - prepared to your preference",
+          "price": 1000,
+          "image": "/images/menu/pork-meat.webp"
+        },
+        {
+          "name": "Tomahawk Steak 1 kg",
+          "description": "Premium beef tomahawk steak grilled to your preference",
+          "price": 4000,
+          "image": "/images/menu/tomahawk-steak.jpg"
+        },
+        {
+          "name": "Sticky Pork",
+          "description": "Slow-cooked pork with a sweet and savory glaze",
+          "price": 1200,
+          "image": "/images/menu/sticky-pork.jpeg"
+        },
+        {
+          "name": "Chicken Fillet",
+          "description": "Tender chicken breast fillet grilled with herbs",
+          "price": 900,
+          "image": "/images/menu/chicken-fillet.jpg"
+        }
+      ]
+    },
+    {
+      "id": "traditional",
+      "name": "Traditional Cuisine",
+      "description": "Local specialties showcasing regional flavors and traditions.",
+      "image": "/images/menu-traditional.jpg",
+      "items": [
+        {
+          "name": "Homemade Meatball Grilled",
+          "description": "Traditional grilled meatballs made from our family recipe",
+          "price": 600,
+          "image": "/images/menu/meatballs.jpg"
+        },
+        {
+          "name": "Liver, Heart, Spleen",
+          "description": "Traditional preparation of organ meats with spices",
+          "price": 700,
+          "image": "/images/menu/organ-meats.webp"
+        },
+        {
+          "name": "Traditional Casserole",
+          "description": "Slow-cooked meat and vegetables in a clay pot",
+          "price": 600,
+          "image": "/images/menu/traditional-casserole.jpg"
+        },
+        {
+          "name": "Rice Casserole",
+          "description": "Baked rice with vegetables and herbs",
+          "price": 600,
+          "image": "/images/menu/rice-casserole.jpg"
+        },
+        {
+          "name": "Porridge Casserole with Nuts",
+          "description": "Traditional porridge with nuts and spices",
+          "price": 600,
+          "image": "/images/menu/porridge-casserole.webp"
+        },
+        {
+          "name": "Pasta Jufka Casserole",
+          "description": "Traditional pasta baked with local ingredients",
+          "price": 600,
+          "image": "/images/menu/pasta-casserole.jpg"
+        },
+        {
+          "name": "Lamb Yogurt Casserole",
+          "description": "Slow-cooked lamb with yogurt sauce and herbs",
+          "price": 600,
+          "image": "/images/menu/lamb-yogurt.jpeg"
+        },
+        {
+          "name": "Fergese Elbasani",
+          "description": "Traditional Albanian dish with peppers, tomatoes, and cheese",
+          "price": 350,
+          "image": "/images/menu/fergese.jpeg"
+        },
+        {
+          "name": "Barbecue Roasted Chicken Bird",
+          "description": "Whole chicken roasted on our barbecue",
+          "price": 1800,
+          "image": "/images/menu/roasted-chicken.jpg"
+        }
+      ]
+    },
+    {
+      "id": "specials",
+      "name": "Specials",
+      "description": "Chef's special creations featuring seasonal ingredients and game meats.",
+      "image": "/images/menu-specials.jpg",
+      "items": [
+        {
+          "name": "Roe Deer Meat 500 gr",
+          "description": "Premium roe deer meat prepared to perfection",
+          "price": 2500,
+          "image": "/images/menu/roe-deer.jpg"
+        },
+        {
+          "name": "Wild Boar Meat 500 gr",
+          "description": "Wild boar meat with herbs and spices",
+          "price": 1200,
+          "image": "/images/menu/wild-boar.webp"
+        },
+        {
+          "name": "Wild Rabbit Meat 2-3 kg",
+          "description": "Whole wild rabbit prepared with traditional methods",
+          "price": 6500,
+          "image": "/images/menu/wild-rabbit.jpeg"
+        },
+        {
+          "name": "Pheasant Meat",
+          "description": "Roasted pheasant with seasonal vegetables",
+          "price": 3500,
+          "image": "/images/menu/pheasant.jpg"
+        },
+        {
+          "name": "Turkey Gobbler Meat 1 kg",
+          "description": "Roasted turkey meat with traditional seasonings",
+          "price": 2000,
+          "image": "/images/menu/turkey.jpg"
+        }
+      ]
+    },
+    {
+      "id": "pizza",
+      "name": "Pizza",
+      "description": "Authentic Italian pizzas baked in our wood-fired oven.",
+      "image": "/images/menu-pizza.jpg",
+      "items": [
+        {
+          "name": "Pizza Margarita",
+          "description": "Sauce, mozzarella, oregano",
+          "price": 350,
+          "image": "/images/menu/margherita.jpg"
+        },
+        {
+          "name": "Mushroom Pizza",
+          "description": "Sauce, mozzarella, fresh mushrooms",
+          "price": 450,
+          "image": "/images/menu/mushroom-pizza.jpg"
+        },
+        {
+          "name": "Pizza Milanese",
+          "description": "Sauce, mozzarella, sardines, oregano",
+          "price": 500,
+          "image": "/images/menu/milanese-pizza.jpg"
+        },
+        {
+          "name": "Pizza Diavola",
+          "description": "Sauce, mozzarella, spicy salami, tabasco",
+          "price": 500,
+          "image": "/images/menu/diavola-pizza.jpg"
+        },
+        {
+          "name": "Pizza Ham, Mushrooms",
+          "description": "Sauce, mozzarella, prosciutto, mushrooms",
+          "price": 550,
+          "image": "/images/menu/ham-mushroom-pizza.jpeg"
+        },
+        {
+          "name": "Pizza 4-Seasons",
+          "description": "Sauce, mozzarella, bacon, mushrooms, olives, sausage",
+          "price": 550,
+          "image": "/images/menu/four-seasons-pizza.jpeg"
+        },
+        {
+          "name": "Vegetarian Pizza",
+          "description": "Sauce, mozzarella, olives, pumpkins, mushrooms, tomatoes",
+          "price": 500,
+          "image": "/images/menu/vegetarian-pizza.jpg"
+        },
+        {
+          "name": "Tuna Pizza",
+          "description": "Sauce, mozzarella, tuna, red onion",
+          "price": 550,
+          "image": "/images/menu/tuna-pizza.jpeg"
+        },
+        {
+          "name": "Pizza 4-Cheeses",
+          "description": "Sauce, mozzarella, white cheese, yellow cheese, gorgonzola",
+          "price": 550,
+          "image": "/images/menu/four-cheese-pizza.jpeg"
+        },
+        {
+          "name": "Capricciosa Pizza",
+          "description": "Sauce, mozzarella, prosciutto, peppers, mushrooms, olives",
+          "price": 550,
+          "image": "/images/menu/capricciosa-pizza.webp"
+        },
+        {
+          "name": "Panorama Pizza",
+          "description": "Sauce, mozzarella, olives, mushrooms, crudo, parmigiano, tuna",
+          "price": 700,
+          "image": "/images/menu/panorama-pizza.jpg"
+        },
+        {
+          "name": "Focace",
+          "description": "Olive oil, oregano, white cheese",
+          "price": 200,
+          "image": "/images/menu/focaccia.jpg"
+        },
+        {
+          "name": "Sandwich",
+          "description": "Mayonnaise, bacon, mozzarella, tomato",
+          "price": 200,
+          "image": "/images/menu/sandwich.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dessert",
+      "name": "Desserts",
+      "description": "Sweet endings to complement your dining experience.",
+      "image": "/images/menu-dessert.jpg",
+      "items": [
+        {
+          "name": "Fresh Ice Cream",
+          "description": "Homemade ice cream in various flavors",
+          "price": 250,
+          "image": "/images/menu/ice-cream.jpg"
+        },
+        {
+          "name": "Fresh Ice Cream with Cornet",
+          "description": "Ice cream served in a waffle cone",
+          "price": 200,
+          "image": "/images/menu/ice-cream-cone.jpeg"
+        },
+        {
+          "name": "Fruit with Honey & Nuts",
+          "description": "Fresh seasonal fruits with honey and nuts",
+          "price": 300,
+          "image": "/images/menu/fruit-honey.jpeg"
+        },
+        {
+          "name": "Candy Cream",
+          "description": "Sweet cream dessert with caramel",
+          "price": 200,
+          "image": "/images/menu/candy-cream.jpg"
+        },
+        {
+          "name": "Panna Cotta",
+          "description": "Italian cream dessert with berry sauce",
+          "price": 200,
+          "image": "/images/menu/panna-cotta.jpeg"
+        },
+        {
+          "name": "Crepe with Chocolate Cream & Banana",
+          "description": "Thin pancake filled with chocolate and banana",
+          "price": 150,
+          "image": "/images/menu/chocolate-crepe.jpeg"
+        },
+        {
+          "name": "Crepe with Cream & Strawberries",
+          "description": "Thin pancake filled with cream and fresh strawberries",
+          "price": 150,
+          "image": "/images/menu/strawberry-crepe.jpg"
+        },
+        {
+          "name": "Orange Cake",
+          "description": "Moist orange cake with citrus glaze",
+          "price": 200,
+          "image": "/images/menu/orange-cake.jpg"
+        },
+        {
+          "name": "Tiramisu",
+          "description": "Classic Italian coffee-flavored dessert",
+          "price": 300,
+          "image": "/images/menu/tiramisu.webp"
+        },
+        {
+          "name": "Trilece",
+          "description": "Traditional three-milk cake with caramel topping",
+          "price": 200,
+          "image": "/images/menu/trilece.webp"
+        },
+        {
+          "name": "Chocolate Souffle",
+          "description": "Warm chocolate cake with a molten center",
+          "price": 300,
+          "image": "/images/menu/chocolate-souffle.jpeg"
+        },
+        {
+          "name": "Homemade Sweet Milk",
+          "description": "Traditional sweet milk dessert",
+          "price": 400,
+          "image": "/images/menu/sweet-milk.jpg"
+        }
+      ]
+    },
+    {
+      "id": "cafeteria",
+      "name": "Cafeteria",
+      "description": "Premium coffee and tea selection.",
+      "image": "/images/menu-cafeteria.jpg",
+      "items": [
+        {
+          "name": "Turkish Coffee",
+          "description": "Traditional Turkish coffee",
+          "price": 70,
+          "image": "/images/menu/turkish-coffee.jpg"
+        },
+        {
+          "name": "Espresso Coffee",
+          "description": "Strong Italian coffee",
+          "price": 80,
+          "image": "/images/menu/espresso.jpg"
+        },
+        {
+          "name": "Macchiato",
+          "description": "Espresso with a dash of milk",
+          "price": 80,
+          "image": "/images/menu/macchiato.jpg"
+        },
+        {
+          "name": "Cappuccino",
+          "description": "Espresso with steamed milk and foam",
+          "price": 150,
+          "image": "/images/menu/cappuccino.jpg"
+        },
+        {
+          "name": "Correto Coffee",
+          "description": "Espresso with a shot of liquor",
+          "price": 150,
+          "image": "/images/menu/correto.jpg"
+        },
+        {
+          "name": "Hot Tea",
+          "description": "Selection of teas",
+          "price": 70,
+          "image": "/images/menu/hot-tea.webp"
+        },
+        {
+          "name": "Organic Tea",
+          "description": "Selection of organic herbal teas",
+          "price": 150,
+          "image": "/images/menu/organic-tea.jpeg"
+        },
+        {
+          "name": "Milk",
+          "description": "Fresh milk",
+          "price": 70,
+          "image": "/images/menu/milk.jpg"
+        },
+        {
+          "name": "Salep",
+          "description": "Traditional hot drink made from orchid flour",
+          "price": 150,
+          "image": "/images/menu/salep.jpg"
+        },
+        {
+          "name": "Hot Chocolate",
+          "description": "Rich and creamy hot chocolate",
+          "price": 150,
+          "image": "/images/menu/hot-chocolate.webp"
+        },
+        {
+          "name": "Nescaffe",
+          "description": "Instant coffee",
+          "price": 180,
+          "image": "/images/menu/nescafe.webp"
+        }
+      ]
+    },
+    {
+      "id": "fresh-drinks",
+      "name": "Fresh Drinks",
+      "description": "Refreshing non-alcoholic beverages and fresh juices.",
+      "image": "/images/menu-fresh-drinks.jpg",
+      "items": [
+        {
+          "name": "Bravo",
+          "description": "Packaged fruit juice",
+          "price": 150,
+          "image": "/images/menu/bravo-juice.webp"
+        },
+        {
+          "name": "Cold Tea",
+          "description": "Refreshing iced tea",
+          "price": 150,
+          "image": "/images/menu/iced-tea.jpg"
+        },
+        {
+          "name": "Coca Cola",
+          "description": "Classic cola drink",
+          "price": 150,
+          "image": "/images/menu/coca-cola.png"
+        },
+        {
+          "name": "Fanta",
+          "description": "Orange soda",
+          "price": 150,
+          "image": "/images/menu/fanta.jpeg"
+        },
+        {
+          "name": "Sprite",
+          "description": "Lemon-lime soda",
+          "price": 150,
+          "image": "/images/menu/sprite.webp"
+        },
+        {
+          "name": "Soda Limon",
+          "description": "Sparkling water with lemon",
+          "price": 150,
+          "image": "/images/menu/soda-limon.webp"
+        },
+        {
+          "name": "Fresh Fruit Juices",
+          "description": "Freshly squeezed seasonal fruits",
+          "price": 200,
+          "image": "/images/menu/fresh-juice.jpg"
+        },
+        {
+          "name": "Nescaffe",
+          "description": "Cold instant coffee",
+          "price": 150,
+          "image": "/images/menu/cold-nescafe.webp"
+        },
+        {
+          "name": "Suko",
+          "description": "Local fruit juice",
+          "price": 70,
+          "image": "/images/menu/suko.webp"
+        },
+        {
+          "name": "Bitter",
+          "description": "Italian bitter aperitif",
+          "price": 100,
+          "image": "/images/menu/bitter.webp"
+        },
+        {
+          "name": "Schweppes",
+          "description": "Tonic water",
+          "price": 150,
+          "image": "/images/menu/schweppes.jpeg"
+        },
+        {
+          "name": "Crodino",
+          "description": "Non-alcoholic bitter aperitif",
+          "price": 120,
+          "image": "/images/menu/crodino.jpg"
+        },
+        {
+          "name": "B52",
+          "description": "Layered shot with coffee liqueur, Irish cream, and orange liqueur",
+          "price": 150,
+          "image": "/images/menu/b52.jpeg"
+        },
+        {
+          "name": "RedBull",
+          "description": "Energy drink",
+          "price": 300,
+          "image": "/images/menu/redbull.jpg"
+        },
+        {
+          "name": "Water 0.5 L",
+          "description": "Still mineral water",
+          "price": 60,
+          "image": "/images/menu/water-bottle.webp"
+        },
+        {
+          "name": "Water Bottle 0.75 L",
+          "description": "Premium still or sparkling water",
+          "price": 200,
+          "image": "/images/menu/premium-water.png"
+        },
+        {
+          "name": "Fredo Latte",
+          "description": "Cold coffee with milk and ice",
+          "price": 200,
+          "image": "/images/menu/fredo-latte.jpeg"
+        },
+        {
+          "name": "Cappuccino Fredo",
+          "description": "Cold cappuccino with ice",
+          "price": 200,
+          "image": "/images/menu/cappuccino-fredo.jpeg"
+        },
+        {
+          "name": "Chocolate Fredo",
+          "description": "Cold chocolate drink with ice",
+          "price": 200,
+          "image": "/images/menu/chocolate-fredo.jpg"
+        }
+      ]
+    },
+    {
+      "id": "beer",
+      "name": "Beer",
+      "description": "Selection of local and international beers.",
+      "image": "/images/menu-beer.jpg",
+      "items": [
+        {
+          "name": "Little Draft Beer",
+          "description": "Small glass of draft beer",
+          "price": 100,
+          "image": "/images/menu/small-draft-beer.jpg"
+        },
+        {
+          "name": "Large Draft Beer",
+          "description": "Large glass of draft beer",
+          "price": 200,
+          "image": "/images/menu/large-draft-beer.webp"
+        },
+        {
+          "name": "Strong Beer 0.33 L",
+          "description": "High-alcohol content beer",
+          "price": 200,
+          "image": "/images/menu/strong-beer.jpg"
+        },
+        {
+          "name": "Amstel",
+          "description": "Dutch pale lager",
+          "price": 200,
+          "image": "/images/menu/amstel.jpg"
+        },
+        {
+          "name": "Heineken",
+          "description": "Dutch premium lager",
+          "price": 250,
+          "image": "/images/menu/heineken.jpeg"
+        },
+        {
+          "name": "Paulaner",
+          "description": "German wheat beer",
+          "price": 350,
+          "image": "/images/menu/paulaner.png"
+        },
+        {
+          "name": "Czech Pilsen 0.33 L",
+          "description": "Traditional Czech pilsner",
+          "price": 150,
+          "image": "/images/menu/czech-pilsner.webp"
+        },
+        {
+          "name": "Corona",
+          "description": "Mexican pale lager",
+          "price": 350,
+          "image": "/images/menu/corona.jpeg"
+        },
+        {
+          "name": "Draft Beer Tower",
+          "description": "3-liter tower of draft beer for sharing",
+          "price": 700,
+          "image": "/images/menu/beer-tower.webp"
+        }
+      ]
+    },
+    {
+      "id": "alcohol",
+      "name": "Spirits",
+      "description": "Premium spirits and signature cocktails.",
+      "image": "/images/menu-alcohol.jpg",
+      "items": [
+        {
+          "name": "Johnnie Walker Blue",
+          "description": "Luxury blended Scotch whisky",
+          "price": 2500,
+          "image": "/images/menu/johnnie-walker-blue.webp"
+        },
+        {
+          "name": "Amaro Disaronno",
+          "description": "Italian almond liqueur",
+          "price": 250,
+          "image": "/images/menu/disaronno.jpeg"
+        },
+        {
+          "name": "Amaro Lucano",
+          "description": "Italian herbal liqueur",
+          "price": 250,
+          "image": "/images/menu/amaro-lucano.webp"
+        },
+        {
+          "name": "Amaro Montenegro",
+          "description": "Italian amaro",
+          "price": 250,
+          "image": "/images/menu/montenegro.jpg"
+        },
+        {
+          "name": "Amaro Ramazotti",
+          "description": "Italian amaro",
+          "price": 250,
+          "image": "/images/menu/ramazotti.jpg"
+        },
+        {
+          "name": "Vecchia Romagna",
+          "description": "Italian brandy",
+          "price": 250,
+          "image": "/images/menu/vecchia-romagna.jpg"
+        },
+        {
+          "name": "Fernet Branca",
+          "description": "Italian amaro",
+          "price": 250,
+          "image": "/images/menu/fernet-branca.jpg"
+        },
+        {
+          "name": "Bacardi",
+          "description": "White rum",
+          "price": 250,
+          "image": "/images/menu/bacardi.jpg"
+        },
+        {
+          "name": "Baileys",
+          "description": "Irish cream liqueur",
+          "price": 250,
+          "image": "/images/menu/baileys.jpg"
+        },
+        {
+          "name": "Ballantines",
+          "description": "Blended Scotch whisky",
+          "price": 250,
+          "image": "/images/menu/ballantines.jpg"
+        },
+        {
+          "name": "Campari",
+          "description": "Italian bitter liqueur",
+          "price": 200,
+          "image": "/images/menu/campari.webp"
+        },
+        {
+          "name": "Cardinal",
+          "description": "Cocktail with gin and red vermouth",
+          "price": 350,
+          "image": "/images/menu/cardinal.jpeg"
+        },
+        {
+          "name": "Chivas Regal",
+          "description": "Blended Scotch whisky",
+          "price": 350,
+          "image": "/images/menu/chivas-regal.jpeg"
+        },
+        {
+          "name": "Cutty Sark",
+          "description": "Blended Scotch whisky",
+          "price": 250,
+          "image": "/images/menu/cutty-sark.jpg"
+        },
+        {
+          "name": "Dimple",
+          "description": "Premium blended Scotch whisky",
+          "price": 350,
+          "image": "/images/menu/dimple.jpeg"
+        },
+        {
+          "name": "Glengrand",
+          "description": "Single malt Scotch whisky",
+          "price": 300,
+          "image": "/images/menu/glengrand.webp"
+        },
+        {
+          "name": "Haig Gold Label",
+          "description": "Blended Scotch whisky",
+          "price": 350,
+          "image": "/images/menu/haig-gold.jpeg"
+        },
+        {
+          "name": "J & B",
+          "description": "Blended Scotch whisky",
+          "price": 250,
+          "image": "/images/menu/j-and-b.png"
+        },
+        {
+          "name": "Jack Daniels",
+          "description": "Tennessee whiskey",
+          "price": 300,
+          "image": "/images/menu/jack-daniels.webp"
+        },
+        {
+          "name": "Johnny Walker",
+          "description": "Blended Scotch whisky",
+          "price": 250,
+          "image": "/images/menu/johnnie-walker.webp"
+        },
+        {
+          "name": "Johnny Black",
+          "description": "Premium blended Scotch whisky",
+          "price": 350,
+          "image": "/images/menu/johnnie-black.webp"
+        },
+        {
+          "name": "Jagermeister",
+          "description": "German herbal liqueur",
+          "price": 200,
+          "image": "/images/menu/jagermeister.jpg"
+        },
+        {
+          "name": "Limoncello",
+          "description": "Italian lemon liqueur",
+          "price": 250,
+          "image": "/images/menu/limoncello.webp"
+        },
+        {
+          "name": "Malibu",
+          "description": "Coconut rum liqueur",
+          "price": 250,
+          "image": "/images/menu/malibu.jpg"
+        },
+        {
+          "name": "Martini",
+          "description": "Italian vermouth",
+          "price": 200,
+          "image": "/images/menu/martini.png"
+        },
+        {
+          "name": "Metaxa 3*",
+          "description": "Greek brandy",
+          "price": 250,
+          "image": "/images/menu/metaxa-3.jpeg"
+        },
+        {
+          "name": "Metaxa 5*",
+          "description": "Greek brandy",
+          "price": 300,
+          "image": "/images/menu/metaxa-5.jpg"
+        },
+        {
+          "name": "Rum",
+          "description": "Dark rum",
+          "price": 250,
+          "image": "/images/menu/rum.webp"
+        },
+        {
+          "name": "Sambuca Molinari",
+          "description": "Italian anise-flavored liqueur",
+          "price": 250,
+          "image": "/images/menu/sambuca.webp"
+        },
+        {
+          "name": "Sheridans",
+          "description": "Layered coffee and vanilla liqueur",
+          "price": 300,
+          "image": "/images/menu/sheridans.png"
+        },
+        {
+          "name": "Sierra Tequila",
+          "description": "Mexican tequila",
+          "price": 250,
+          "image": "/images/menu/sierra-tequila.webp"
+        },
+        {
+          "name": "Vodka Absolute",
+          "description": "Swedish vodka",
+          "price": 250,
+          "image": "/images/menu/absolut.jpg"
+        },
+        {
+          "name": "Vodka Artic",
+          "description": "Premium vodka",
+          "price": 250,
+          "image": "/images/menu/arctic-vodka.jpg"
+        },
+        {
+          "name": "Vodka Finlandia",
+          "description": "Finnish vodka",
+          "price": 250,
+          "image": "/images/menu/finlandia.jpg"
+        },
+        {
+          "name": "Vodka Gorbachov",
+          "description": "German vodka",
+          "price": 250,
+          "image": "/images/menu/gorbachev-vodka.jpeg"
+        },
+        {
+          "name": "Vodka Keglevich",
+          "description": "Italian vodka",
+          "price": 250,
+          "image": "/images/menu/keglevich.jpg"
+        },
+        {
+          "name": "Vodka Pushkini",
+          "description": "Russian vodka",
+          "price": 250,
+          "image": "/images/menu/pushkin-vodka.jpeg"
+        },
+        {
+          "name": "Vodka Smirnoff",
+          "description": "Russian vodka",
+          "price": 250,
+          "image": "/images/menu/smirnoff.jpg"
+        },
+        {
+          "name": "Gin",
+          "description": "London dry gin",
+          "price": 250,
+          "image": "/images/menu/gin.png"
+        },
+        {
+          "name": "Skenderbeu Cognac",
+          "description": "Albanian brandy",
+          "price": 100,
+          "image": "/images/menu/skenderbeu.jpg"
+        },
+        {
+          "name": "Grape Brandy",
+          "description": "Local grape brandy",
+          "price": 100,
+          "image": "/images/menu/grape-brandy.png"
+        },
+        {
+          "name": "Raspberry Brandy",
+          "description": "Local raspberry brandy",
+          "price": 200,
+          "image": "/images/menu/raspberry-brandy.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "wine",
+      "name": "Wine",
+      "description": "Curated selection of local and international wines.",
+      "image": "/images/menu-wine.jpg",
+      "items": [
+        {
+          "name": "Wine Glasses",
+          "description": "Premium wine by the glass",
+          "price": 200,
+          "image": "/images/menu/wine-glass.webp"
+        },
+        {
+          "name": "House Wine 0.5 L",
+          "description": "Red, white, or rosé wine by the carafe",
+          "price": 500,
+          "image": "/images/menu/house-wine.jpeg"
+        },
+        {
+          "name": "Handcrafted Wine 0.75 L",
+          "description": "Bottle of premium local or imported wine",
+          "price": 1200,
+          "image": "/images/menu/premium-wine.png"
+        }
+      ]
+    }
+  ],
+  "privateDining": {
+    "title": "Private Dining Experience",
+    "description": "For special occasions, we offer exclusive private dining experiences. From romantic dinners on the beach to family celebrations in our private dining room, our team will create a memorable culinary journey tailored to your preferences.",
+    "buttonText": "Inquire Now",
+    "image": "/images/about-us.jpg"
+  }
+}

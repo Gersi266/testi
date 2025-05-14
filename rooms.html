@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Our Rooms - Panorama Resort</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/rooms.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <!-- Header -->
+    <header id="header">
+        <div class="container">
+            <div class="logo">
+                <a href="index.html">
+                    <img src="images/logo.png" alt="Panorama Resort Logo">
+                    <span>Panorama Resort</span>
+                </a>
+            </div>
+            <nav>
+                <ul class="nav-menu">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="rooms.html" class="active">Rooms</a></li>
+                    <li><a href="activities.html">Activities</a></li>
+                    <li><a href="menu.html">Menu</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+                <a href="contact.html" class="btn-book">Book Now</a>
+                <div class="hamburger">
+                    <span class="bar"></span>
+                    <span class="bar"></span>
+                    <span class="bar"></span>
+                </div>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="page-hero" style="background-image: url('images/rooms-hero.jpg');">
+        <div class="hero-content">
+            <h1>Our Luxurious Rooms</h1>
+            <div class="divider"></div>
+        </div>
+    </section>
+
+    <!-- Rooms Section -->
+    <section class="rooms-section section-padding">
+        <div class="container">
+            <div class="section-header">
+                <h2>Discover Our Accommodations</h2>
+                <div class="divider"></div>
+                <p>Explore our selection of beautifully designed rooms and suites, each offering a unique experience with the perfect blend of comfort, luxury, and style.</p>
+            </div>
+
+            <div class="rooms-grid">
+                <!-- Room cards will be dynamically populated from rooms.js -->
+            </div>
+        </div>
+    </section>
+
+    <!-- Room Preview Modal -->
+    <div class="room-modal" id="roomModal">
+        <div class="modal-content">
+            <span class="close-modal">&times;</span>
+            <div class="modal-body">
+                <div class="modal-gallery">
+                    <div class="main-image">
+                        <img id="modalMainImage" src="/placeholder.svg" alt="Room Image">
+                    </div>
+                    <div class="thumbnail-gallery" id="thumbnailGallery">
+                        <!-- Thumbnails will be added dynamically -->
+                    </div>
+                </div>
+                <div class="modal-details">
+                    <h2 id="modalRoomName"></h2>
+                    <div class="modal-price">
+                        <span id="modalPrice"></span>
+                        <span class="per-night">/night</span>
+                    </div>
+                    <p id="modalDescription"></p>
+                    
+                    <div class="modal-features">
+                        <h3>Room Features</h3>
+                        <ul id="modalFeatures">
+                            <!-- Features will be added dynamically -->
+                        </ul>
+                    </div>
+                    
+                    <div class="modal-amenities">
+                        <h3>Room Amenities</h3>
+                        <ul id="modalAmenities">
+                            <!-- Amenities will be added dynamically -->
+                        </ul>
+                    </div>
+                    
+                    <div class="modal-info">
+                        <h3>Additional Information</h3>
+                        <p>For reservations and availability, please contact our front desk directly:</p>
+                        <p><i class="fas fa-phone"></i> +1 (555) 123-4567</p>
+                        <p><i class="fas fa-envelope"></i> reservations@panoramaresort.com</p>
+                    </div>
+                    
+                    <a href="contact.html" class="btn btn-primary">Contact For Booking</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Amenities Section -->
+    <section class="amenities-section section-padding bg-light">
+        <div class="container">
+            <div class="section-header">
+                <h2>Room Amenities</h2>
+                <div class="divider"></div>
+                <p>All of our rooms come with a range of amenities to ensure your comfort and convenience during your stay.</p>
+            </div>
+
+            <div class="amenities-grid">
+                <div class="amenity">
+                    <div class="amenity-icon">
+                        <i class="fas fa-bed"></i>
+                    </div>
+                    <h3>Luxury Bedding</h3>
+                </div>
+                <div class="amenity">
+                    <div class="amenity-icon">
+                        <i class="fas fa-wifi"></i>
+                    </div>
+                    <h3>High-Speed Wi-Fi</h3>
+                </div>
+                <div class="amenity">
+                    <div class="amenity-icon">
+                        <i class="fas fa-tv"></i>
+                    </div>
+                    <h3>Smart TV</h3>
+                </div>
+                <div class="amenity">
+                    <div class="amenity-icon">
+                        <i class="fas fa-snowflake"></i>
+                    </div>
+                    <h3>Climate Control</h3>
+                </div>
+                <div class="amenity">
+                    <div class="amenity-icon">
+                        <i class="fas fa-glass-martini-alt"></i>
+                    </div>
+                    <h3>Mini Bar</h3>
+                </div>
+                <div class="amenity">
+                    <div class="amenity-icon">
+                        <i class="fas fa-lock"></i>
+                    </div>
+                    <h3>In-Room Safe</h3>
+                </div>
+                <div class="amenity">
+                    <div class="amenity-icon">
+                        <i class="fas fa-concierge-bell"></i>
+                    </div>
+                    <h3>Room Service</h3>
+                </div>
+                <div class="amenity">
+                    <div class="amenity-icon">
+                        <i class="fas fa-pump-soap"></i>
+                    </div>
+                    <h3>Luxury Toiletries</h3>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- CTA Section -->
+    <section class="cta-banner section-padding">
+        <div class="container">
+            <div class="cta-content">
+                <div class="cta-text">
+                    <h2>Ready to Experience Paradise?</h2>
+                    <p>Contact our reservation team for personalized assistance and to check availability for your desired dates.</p>
+                    <a href="contact.html" class="btn btn-light">Contact Us</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-column">
+                    <div class="footer-logo">
+                        <img src="images/logo.png" alt="Panorama Resort">
+                    </div>
+                    <p>Experience luxury and tranquility at our exclusive beachfront resort, where paradise meets exceptional service.</p>
+                    <div class="social-links">
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                        <a href="#"><i class="fab fa-instagram"></i></a>
+                        <a href="#"><i class="fab fa-pinterest"></i></a>
+                    </div>
+                </div>
+                <div class="footer-column">
+                    <h3>Quick Links</h3>
+                    <ul class="footer-links">
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="about.html">About Us</a></li>
+                        <li><a href="rooms.html">Rooms</a></li>
+                        <li><a href="activities.html">Activities</a></li>
+                        <li><a href="menu.html">Menu</a></li>
+                        <li><a href="contact.html">Contact</a></li>
+                    </ul>
+                </div>
+                <div class="footer-column">
+                    <h3>Contact Info</h3>
+                    <ul class="contact-info">
+                        <li><i class="fas fa-map-marker-alt"></i> 123 Paradise Lane, Tropical Island</li>
+                        <li><i class="fas fa-phone"></i> +1 (555) 123-4567</li>
+                        <li><i class="fas fa-envelope"></i> info@panoramaresort.com</li>
+                    </ul>
+                </div>
+                <div class="footer-column">
+                    <h3>Newsletter</h3>
+                    <p>Subscribe to our newsletter for special offers and updates.</p>
+                    <form class="newsletter-form">
+                        <input type="email" placeholder="Your Email Address" required>
+                        <button type="submit"><i class="fas fa-paper-plane"></i></button>
+                    </form>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2023 Panorama Resort. All Rights Reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- WhatsApp Button -->
+    <a href="https://wa.me/1234567890" class="whatsapp-button" target="_blank">
+        <i class="fab fa-whatsapp"></i>
+    </a>
+
+    <script src="js/main.js"></script>
+    <script src="js/rooms.js"></script>
+</body>
+</html>

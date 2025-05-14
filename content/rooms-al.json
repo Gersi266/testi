@@ -1,0 +1,168 @@
+{
+  "title": "Komfort dhe Rehati",
+  "subtitle": "Dhoma të kuruara me kujdes, të rehatshme dhe të qeta — për një qëndrim të këndshëm mes natyrës dhe mikpritjes së ngrohtë",
+  "heroImage": "/images/rooms.jpg",
+  "roomsSection": {
+    "title": "Dhomat Tona",
+    "subtitle": "Zgjidhni nga përzgjedhja jonë e dhomave të dizajnuara bukur, secila që ofron një përvojë unike me përzierjen perfekte të rehatisë, luksit dhe stilit.",
+    "rooms": [
+      {
+        "id": 1,
+        "name": "Dhomë Teke",
+        "description": "Dhomat tona të rehatshme Teke janë perfekte për udhëtarët e vetëm, duke ofruar të gjitha pajisjet thelbësore në një hapësirë të ngrohtë, të dizajnuar mirë.",
+        "price": 60,
+        "size": 35,
+        "capacity": 1,
+        "beds": 1,
+        "bathrooms": 1,
+        "bedrooms": 1,
+        "image": "/images/Double-1.jpg",
+        "additionalImages": ["/images/Double-2.jpg", "/images/Double-3.jpg", "/images/Double-4.jpg", "/images/Double-5.jpg", "/images/Double-6.jpg"],
+        "features": [
+          "Banjo Private",
+          "Tavolinë Pune",
+          "Wi-Fi Falas",
+          "Mëngjes i Përfshirë",
+          "Kondicionim Ajri",
+          "TV i Sheshtë"
+        ],
+        "longDescription": "Përjetoni rehati dhe komoditet në Dhomat tona Teke të menduara me kujdes. Perfekte për udhëtarët e vetëm ose mysafirët e biznesit, këto dhoma ofrojnë një strehë paqësore pas një dite eksplorimi ose takimesh."
+      },
+      {
+        "id": 2,
+        "name": "Dhomë Dyshe",
+        "description": "E dizajnuar për çifte ose miq që udhëtojnë së bashku, Dhomat tona Dyshe ofrojnë një ekuilibër perfekt të rehatisë dhe stilit.",
+        "price": 67,
+        "size": 35,
+        "capacity": 2,
+        "beds": 1,
+        "bathrooms": 1,
+        "bedrooms": 1,
+        "image": "/images/Doublee-1.jpg",
+        "additionalImages": ["/images/Doublee-2.jpg", "/images/Doublee-3.jpg"],
+        "features": ["Krevat Dyshe", "Ballkon Privat", "Zonë Ndenjeje", "Wi-Fi Falas", "Mini Bar", "Kondicionim Ajri"],
+        "longDescription": "Dhomat tona Dyshe ofrojnë përzierjen perfekte të rehatisë dhe elegancës për çifte ose miq që udhëtojnë së bashku. Çdo dhomë ka një krevat të rehatshëm me madhësi mbretërore me çarçafë premium, duke siguruar një natë të qetë gjumi."
+      },
+      {
+        "id": 3,
+        "name": "Dhomë Familjare",
+        "description": "E gjerë dhe e dizajnuar me kujdes, Dhomat tona Familjare ofrojnë akomodimin perfekt për familjet me fëmijë.",
+        "price": 80,
+        "size": 50,
+        "capacity": 4,
+        "beds": 3,
+        "bathrooms": 1,
+        "bedrooms": 2,
+        "image": "/images/Family-1.jpg",
+        "additionalImages": ["/images/Family-2.jpg", "/images/Family-3.jpg", "/images/Family-4.jpg", "/images/Family-5.jpg", "/images/Family-6.jpg"],
+        "features": [
+          "Krevat Mbretëror + Krevate Teke",
+          "Zonë Ndenjeje",
+          "Zonë Ngrënieje",
+          "Wi-Fi Falas",
+          "Mini Bar",
+          "Kondicionim Ajri"
+        ],
+        "longDescription": "Dhomat tona Familjare janë të dizajnuara posaçërisht për të akomoduar familjet me fëmijë, duke ofruar hapësirë të bollshme dhe pajisje të menduara për një qëndrim të rehatshëm. Dhoma kryesore ka një krevat me madhësi mbretërore për prindërit, ndërsa një dhomë gjumi e veçantë përfshin krevate teke që fëmijët do t'i adhurojnë."
+      }
+    ]
+  },
+  "facilitiesSection": {
+    "title": "Facilitetet Më të Përdorura",
+    "subtitle": "Shijoni pajisjet tona premium gjatë qëndrimit tuaj",
+    "facilities": [
+      {
+        "name": "2 Pishina",
+        "icon": "check"
+      },
+      {
+        "name": "Dhoma Jo-Duhanpirëse",
+        "icon": "ban"
+      },
+      {
+        "name": "Spa dhe Mirëqenie",
+        "icon": "smile"
+      },
+      {
+        "name": "Restorant",
+        "icon": "shopping-cart"
+      },
+      {
+        "name": "Dhoma Familjare",
+        "icon": "users"
+      },
+      {
+        "name": "Parkim Falas",
+        "icon": "archive"
+      },
+      {
+        "name": "Shërbim në Dhomë",
+        "icon": "home"
+      },
+      {
+        "name": "Wi-Fi Falas",
+        "icon": "wifi"
+      },
+      {
+        "name": "Bar",
+        "icon": "monitor"
+      },
+      {
+        "name": "Mëngjes",
+        "icon": "sun"
+      }
+    ]
+  },
+  "ctaSection": {
+    "title": "Gati për të Rezervuar Qëndrimin Tuaj?",
+    "subtitle": "Na kontaktoni tani për të rezervuar dhomën tuaj dhe për të përjetuar luksin e Panorama Resort.",
+    "buttonText": "Rezervo Tani"
+  },
+  "facilities": {
+    "title": "Facilitetet & Shërbimet Tona",
+    "subtitle": "Në Panorama Resort, ne krenohemi me ofrimin e një game të gjerë të pajimeve dhe shërbimeve për të siguruar që qëndrimi juaj të jetë sa më i rehatshëm dhe i këndshëm.",
+    "categories": [
+      {
+        "title": "Pajisjet e Dhomës",
+        "description": "Shijoni këto pajisje premium në të gjitha dhomat tona për rehatinë dhe komoditetin tuaj.",
+        "items": [
+          { "name": "TV i Sheshtë", "icon": "tv" },
+          { "name": "Internet - WiFi", "icon": "wifi" },
+          { "name": "Kafe dhe Çaj", "icon": "coffee" },
+          { "name": "Mini Bar", "icon": "utensils" },
+          { "name": "Kondicionim Ajri", "icon": "wind" },
+          { "name": "Mëngjes i Përfshirë", "icon": "check" }
+        ]
+      },
+      {
+        "title": "Facilitetet e Hotelit",
+        "description": "Eksploroni gamën tonë të gjerë të faciliteteve të dizajnuara për të përmirësuar qëndrimin tuaj.",
+        "items": [
+          { "name": "Sallë Konferencash", "icon": "tv" },
+          { "name": "Pishinë", "icon": "wifi" },
+          { "name": "Dhoma Familjare", "icon": "users" },
+          { "name": "Qendër Spa dhe Mirëqenieje", "icon": "coffee" },
+          { "name": "Recepsion 24-orësh", "icon": "check" },
+          { "name": "Gjysmë Pension", "icon": "utensils" },
+          { "name": "Pension i Plotë", "icon": "utensils" }
+        ]
+      },
+      {
+        "title": "Shërbimet e Hotelit",
+        "description": "Zbuloni shërbimet tona premium të dizajnuara për ta bërë qëndrimin tuaj të paharrueshëm.",
+        "items": [
+          { "name": "Bar Plazhi", "icon": "coffee" },
+          { "name": "Restorant", "icon": "utensils" },
+          { "name": "Pishinë", "icon": "wifi" },
+          { "name": "Bar Sallon", "icon": "coffee" },
+          { "name": "Klub Nate/DJ", "icon": "tv" },
+          { "name": "Bar Kafeje", "icon": "coffee" }
+        ]
+      }
+    ]
+  },
+  "checkTimes": {
+    "checkIn": "15:00",
+    "checkOut": "11:00"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "hero": {
+    "title": "Na Kontaktoni",
+    "image": "/images/rooms.jpg"
+  },
+  "getInTouch": {
+    "title": "Na Kontaktoni",
+    "subtitle": "Jemi këtu për të ndihmuar që qëndrimi juaj të jetë perfekt. Na kontaktoni me çdo pyetje ose për të rezervuar qëndrimin tuaj.",
+    "contactInfo": [
+      {
+        "icon": "phone",
+        "title": "Telefon",
+        "lines": ["Rezervime: +355 69 207 0062", "Recepsion: +355 69 207 0062"]
+      },
+      {
+        "icon": "mail",
+        "title": "Email",
+        "lines": ["Pyetje të Përgjithshme: info@panoramaresortelbasan.com"]
+      },
+      {
+        "icon": "mapPin",
+        "title": "Adresa",
+        "lines": ["Rruga Teqes Mengel", "Elbasan 3006"]
+      }
+    ]
+  },
+  "bookingCta": {
+    "title": "Gati për të Rezervuar Qëndrimin Tuaj?",
+    "description": "Vizitoni faqen tonë të rezervimeve për të kontrolluar disponueshmërinë dhe për të rezervuar dhomën tuaj në Panorama Resort.",
+    "buttonText": "Rezervo Tani",
+    "buttonLink": "https://www.see-albania.com/hotel/hotel-panorama-spa-elbasan"
+  },
+  "map": {
+    "title": "Na Gjeni",
+    "description": "I vendosur në qytetin e bukur të Elbasanit, Panorama Resort ofron akses të lehtë në atraksionet lokale duke ofruar një strehë paqësore nga zhurma e jetës së përditshme."
+  },
+  "faq": {
+    "title": "Pyetjet më të shpeshta (FAQ)",
+    "subtitle": "Gjeni përgjigje për pyetjet më të zakonshme. Nëse nuk gjeni atë që po kërkoni, ju lutemi na kontaktoni.",
+    "questions": [
+      {
+        "question": "Cilat janë oraret e check-in dhe check-out?",
+        "answer": "Check-in fillon nga ora 15:00 dhe check-out është deri në orën 11:00. Check-in i hershëm dhe check-out i vonuar mund të ofrohen në bazë të disponueshmërisë — na njoftoni paraprakisht."
+      },
+      {
+        "question": "A ka Wi-Fi në resort?",
+        "answer": "Po, ofrojmë Wi-Fi me shpejtësi të lartë falas në të gjithë resortin, përfshirë dhomat dhe hapësirat e përbashkëta."
+      },
+      {
+        "question": "A mund të bëj kalërim në resort?",
+        "answer": "Po! Kemi një hapësirë të dedikuar për kalërim brenda resortit, të përshtatshme për të gjitha moshat dhe nivelet e përvojës."
+      },
+      {
+        "question": "A keni pishinë të hapur gjatë gjithë vitit?",
+        "answer": "Po, disponojmë si pishinë të jashtme për verë, ashtu edhe pishinë të brendshme me ujë të ngrohtë që qëndron e hapur gjatë gjithë vitit. Po ashtu, ofrojmë edhe sauna për relaks të plotë."
+      },
+      {
+        "question": "A shërbeni ushqim tradicional shqiptar?",
+        "answer": "Po, restoranti ynë ofron një përzgjedhje të gjerë të gatimeve tradicionale shqiptare, të përgatitura me përbërës të freskët dhe vendas."
+      },
+      {
+        "question": "A ka mbrëmje me muzikë live?",
+        "answer": "Po, herë pas here organizojmë mbrëmje me muzikë tradicionale live për të krijuar një atmosferë të ngrohtë dhe për të sjellë kulturën shqiptare më pranë vizitorëve tanë."
+      },
+      {
+        "question": "A është resorti i përshtatshëm për familje?",
+        "answer": "Po, Panorama Resort është shumë miqësor për familjet. Ofrojmë dhoma familjare, zonë për fëmijë në pishinë dhe hapësira të sigurta për lojë dhe relaks."
+      },
+      {
+        "question": "A lejohen kafshët shtëpiake?",
+        "answer": "Aktualisht nuk pranojmë kafshë shtëpiake në resort."
+      },
+      {
+        "question": "A ofrohet parkim falas?",
+        "answer": "Po, kemi parkim privat falas për të gjithë mysafirët."
+      },
+      {
+        "question": "A ofroni paketa sezonale apo oferta speciale?",
+        "answer": "Po, gjatë vitit kemi oferta dhe paketa të ndryshme sezonale. Ju ftojmë të vizitoni faqen tonë ose të na kontaktoni për informacionin më të fundit."
+      }
+    ]
+  }
+}

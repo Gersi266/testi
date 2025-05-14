@@ -1,0 +1,117 @@
+{
+  "title": "Comfort That Feels Like Home",
+  "subtitle": "Enjoy relaxing, thoughtfully designed rooms with all the essentials for a peaceful and pleasant stay — where comfort, calm, and nature come together.",
+  "heroImage": "/images/rooms.jpg",
+  "roomsSection": {
+    "title": "Our Rooms",
+    "subtitle": "Choose from our selection of beautifully designed rooms, each offering a unique experience with the perfect blend of comfort, luxury, and style.",
+    "rooms": [
+      {
+        "id": 1,
+        "name": "Double Room",
+        "description": "Our comfortable Double Rooms are perfect for travelers, offering all the essential amenities in a cozy, well-designed space.",
+        "price": 60,
+        "size": 35,
+        "capacity": 2,
+        "beds": 2,
+        "bathrooms": 1,
+        "bedrooms": 1,
+        "image": "/images/Double-1.png",
+        "additionalImages": ["/images/Double-2.png", "/images/Double-3.png", "/images/Double-4.png", "/images/Double-5.png", "/images/Double-6.png"],
+        "features": [
+          "Private Bathroom",
+          "Work Desk",
+          "Free Wi-Fi",
+          "Breakfast Included",
+          "Air Conditioning",
+          "Flat TV"
+        ],
+        "longDescription": "Experience comfort and convenience in our thoughtfully designed Single Rooms. Perfect for solo travelers or business guests, these rooms offer a peaceful retreat after a day of exploration or meetings. Each room is equipped with a comfortable single bed, a private bathroom with premium toiletries, and a dedicated work area. Enjoy modern amenities including free high-speed Wi-Fi, a flat-screen TV with international channels, and individually controlled air conditioning. Wake up to a complimentary breakfast each morning to start your day right."
+      },
+      {
+        "id": 2,
+        "name": "Double Room with Spa",
+        "description": "Designed for couples or friends traveling together, our Double Rooms provide a perfect balance of comfort and style.",
+        "price": 67,
+        "size": 35,
+        "capacity": 2,
+        "beds": 1,
+        "bathrooms": 1,
+        "bedrooms": 1,
+        "image": "/images/Doublee-1.png",
+        "additionalImages": ["/images/Doublee-2.png", "/images/Doublee-3.png"],
+        "features": ["Queen Bed", "Spa Bath", "Private Balcony", "Sitting Area", "Free Wi-Fi", "Mini Bar", "Air Conditioning"],
+        "longDescription": "Our Deluxe Double Rooms offer the perfect blend of comfort and elegance for couples or friends traveling together. Each room features a plush queen-sized bed with premium linens, ensuring a restful night's sleep. Step onto your private balcony to enjoy morning coffee or evening drinks with beautiful views of the surrounding landscape. The thoughtfully designed sitting area provides a comfortable space to relax, read, or plan your next adventure. Additional amenities include a well-stocked mini bar, free high-speed Wi-Fi, and individually controlled air conditioning for your comfort."
+      },
+      {
+        "id": 3,
+        "name": "Family Room",
+        "description": "Spacious and thoughtfully designed, our Family Rooms offer the perfect accommodation for families with children.",
+        "price": 80,
+        "size": 50,
+        "capacity": 4,
+        "beds": 3,
+        "bathrooms": 1,
+        "bedrooms": 2,
+        "image": "/images/Family-1.png",
+        "additionalImages": ["/images/Family-2.png", "/images/Family-3.png", "/images/Family-4.jpg", "/images/Family-5.png", "/images/Family-6.png"],
+        "features": [
+          "King Bed + Twin Beds",
+          "Living Area",
+          "Dining Area",
+          "Free Wi-Fi",
+          "Mini Bar",
+          "Air Conditioning"
+        ],
+        "longDescription": "Our Family Rooms are specially designed to accommodate families with children, offering ample space and thoughtful amenities for a comfortable stay. The main bedroom features a king-sized bed for parents, while a separate bedroom includes twin beds that kids will love. The spacious living area provides plenty of room for family time, and the dining area is perfect for enjoying meals together. The room includes a well-appointed bathroom with both shower and bathtub options. Additional amenities include free Wi-Fi, flat-screen TV, mini bar, and individually controlled air conditioning throughout the room."
+      }
+    ]
+  },
+  "facilities": {
+    "title": "Our Facilities & Services",
+    "subtitle": "At Panorama Resort, we pride ourselves on offering a comprehensive range of amenities and services to ensure your stay is as comfortable and enjoyable as possible.",
+    "categories": [
+      {
+        "title": "Room Amenities",
+        "description": "Enjoy these premium amenities in all our rooms for your comfort and convenience.",
+        "items": [
+          { "name": "Flat TV", "icon": "tv" },
+          { "name": "Internet - WiFi", "icon": "wifi" },
+          { "name": "Coffee and Tea", "icon": "coffee" },
+          { "name": "Mini Bar", "icon": "utensils" },
+          { "name": "Air Conditioning", "icon": "wind" },
+          { "name": "Breakfast Included", "icon": "check" }
+        ]
+      },
+      {
+        "title": "Hotel Facilities",
+        "description": "Explore our extensive range of facilities designed to enhance your stay.",
+        "items": [
+          { "name": "Conference Hall", "icon": "tv" },
+          { "name": "Swimming Pool", "icon": "wifi" },
+          { "name": "Family Rooms", "icon": "users" },
+          { "name": "Spa and Wellness Centre", "icon": "coffee" },
+          { "name": "24-hour Front Desk", "icon": "check" },
+          { "name": "Half Board", "icon": "utensils" },
+          { "name": "Full Board", "icon": "utensils" }
+        ]
+      },
+      {
+        "title": "Hotel Services",
+        "description": "Discover our premium services designed to make your stay unforgettable.",
+        "items": [
+          { "name": "Beach Bar", "icon": "coffee" },
+          { "name": "Restaurant", "icon": "utensils" },
+          { "name": "Pool", "icon": "wifi" },
+          { "name": "Lounge Bar", "icon": "coffee" },
+          { "name": "Nightclub/DJ", "icon": "tv" },
+          { "name": "Coffee Bar", "icon": "coffee" }
+        ]
+      }
+    ]
+  },
+  "checkTimes": {
+    "checkIn": "15:00",
+    "checkOut": "11:00"
+  }
+}

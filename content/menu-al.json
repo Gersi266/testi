@@ -1,0 +1,1113 @@
+{
+  "hero": {
+    "title": "Eksperienca Gastronomike",
+    "image": "/images/menu-generic.jpeg"
+  },
+  "disclaimer": {
+    "title": "Ju lutemi vini re:",
+    "text": "Fotot janë ilustruese. Ne nuk pranojmë porosi jashtë menusë. Ju lutemi na informoni nëse keni ndonjë alergji ushqimore!"
+  },
+  "overview": {
+    "title": "Shije tradicionale, përbërës të freskët dhe mikpritje e ngrohtë",
+    "description": "Në Panorama Resort, çdo pjatë ka një histori. Kuzhina jonë fokusohet në receta autentike shqiptare, të përgatitura me përbërës të freskët vendas — për t'ju ofruar një shije të traditës në çdo kafshatë. Nga pjatat e ngrohta e deri te specialitetet lokale, menuja jonë feston pasurinë e kuzhinës shqiptare në një ambient mikpritës dhe të këndshëm."
+  },
+  "dining": {
+    "options": [
+      {
+        "icon": "👨🏻‍🍳",
+        "title": "Restoranti Kryesor",
+        "description": "Shijoni një përzgjedhje të gjerë gatimesh tradicionale shqiptare dhe ushqime shtëpie në një ambient të ngrohtë dhe mikpritës."
+      },
+      {
+        "icon": "🍹",
+        "title": "Bar & Lounge në Ballkon",
+        "description": "Pushoni me një pije ose një vakt të lehtë në ballkonin tonë me pamje — një vend i këndshëm për të marrë ajër të pastër dhe për të shijuar qytetin."
+      },
+      {
+        "icon": "🍽️",
+        "title": "Darkë në Stil Familjar",
+        "description": "Shijoni kënaqësinë e vakteve të përbashkëta me porcione të bollshme dhe gatime tradicionale që bashkojnë njerëzit rreth tryezës."
+      }
+    ]
+  },
+  "categoryNav": {
+    "title": "Kategoritë e Menusë",
+    "allText": "Të Gjitha"
+  },
+  "categories": [
+    {
+      "id": "appetizers",
+      "name": "Aperitivë",
+      "description": "Filloni udhëtimin tuaj kulinar me përzgjedhjen tonë të aperitivëve.",
+      "image": "/images/menu/menu-appetizers.jpg",
+      "items": [
+        {
+          "name": "Antipasto Italiane",
+          "description": "Përzgjedhje mishërash të kuruar italiane, ullinj dhe perime të marinuara",
+          "price": 1200,
+          "image": "/images/menu/italian-antipasto.jpg"
+        },
+        {
+          "name": "Pjatë Djathi",
+          "description": "Përzgjedhje djathërash vendas dhe të importuar me mjaltë dhe arra",
+          "price": 700,
+          "image": "/images/menu/cheese-platter.jpg"
+        },
+        {
+          "name": "Spinaq i Gatuar",
+          "description": "Spinaq i freskët i gatuar me hudhër dhe vaj ulliri",
+          "price": 300,
+          "image": "/images/menu/sauteed-spinach.jpg"
+        },
+        {
+          "name": "Perime të Pjekura",
+          "description": "Perime sezonale të pjekura në perfeksion me erëza dhe vaj ulliri",
+          "price": 400,
+          "image": "/images/menu/grilled-vegetables.jpg"
+        },
+        {
+          "name": "Bruschetta",
+          "description": "Bukë e thekur e mbuluar me domate të freskëta, borzilok dhe vaj ulliri",
+          "price": 250,
+          "image": "/images/menu/bruschetta.jpg"
+        }
+      ]
+    },
+    {
+      "id": "salads",
+      "name": "Sallata",
+      "description": "Sallata të freskëta dhe të shëndetshme të përgatitura me përbërës vendas.",
+      "image": "/images/menu-salads.webp",
+      "items": [
+        {
+          "name": "Sallatë Fshati",
+          "description": "Sallatë tradicionale me domate, kastravecë, speca, qepë, ullinj dhe djathë feta",
+          "price": 300,
+          "image": "/images/menu/village-salad.jpg"
+        },
+        {
+          "name": "Sallatë Rukola",
+          "description": "Rukola, dardhë, arra dhe gorgonzola me salcë mjaltë dhe mustardë",
+          "price": 300,
+          "image": "/images/menu/aragula-salad.jpg"
+        },
+        {
+          "name": "Perime të Ziera/Pjekura",
+          "description": "Patëllxhan, kungull, domate, qepë, karrota të ziera ose të pjekura",
+          "price": 400,
+          "image": "/images/menu/boiled-vegetables.jpg"
+        },
+        {
+          "name": "Sallatë Cezar",
+          "description": "Marule romaine, krutona, djathë parmezan dhe salcë Cezar",
+          "price": 450,
+          "image": "/images/menu/caesar-salad.jpg"
+        },
+        {
+          "name": "Sallatë Panorama",
+          "description": "Gjethe të përziera, domate qershi, kastravec, djathë feta dhe salcë balsamike",
+          "price": 450,
+          "image": "/images/menu/panorama-salad.jpg"
+        },
+        {
+          "name": "Sallatë Turshi",
+          "description": "Përzgjedhje perimesh turshi me salcë të thartë",
+          "price": 200,
+          "image": "/images/menu/pickled-salad.jpeg"
+        },
+        {
+          "name": "Sallatë Ulliri",
+          "description": "Ullinj të përzier me djathë feta, speca dhe erëza",
+          "price": 200,
+          "image": "/images/menu/olive-salad.jpeg"
+        },
+        {
+          "name": "Perime të Mbushura",
+          "description": "Perime sezonale të mbushura me mbushje të shijshme dhe të pjekura",
+          "price": 400,
+          "image": "/images/menu/stuffed-vegetables.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "soup",
+      "name": "Supa",
+      "description": "Supa të shijshme dhe të mbushura me shije të përgatitura të freskëta çdo ditë.",
+      "image": "/images/menu-soup.jpg",
+      "items": [
+        {
+          "name": "Supë Pule",
+          "description": "Supë tradicionale pule me perime dhe makarona",
+          "price": 300,
+          "image": "/images/menu/chicken-soup.jpeg"
+        },
+        {
+          "name": "Supë Perimesh",
+          "description": "Perime sezonale në supë të lehtë me erëza",
+          "price": 250,
+          "image": "/images/menu/vegetable-soup.jpg"
+        },
+        {
+          "name": "Supë Peshku",
+          "description": "Supë peshku në stil mesdhetar me fruta deti të freskëta dhe domate",
+          "price": 300,
+          "image": "/images/menu/fish-soup.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "pasta-risotto",
+      "name": "Pasta & Rizoto",
+      "description": "Pasta autentike italiane dhe pjata të kremëzuara rizoto.",
+      "image": "/images/menu-pasta-risotto.jpg",
+      "items": [
+        {
+          "name": "Ravioli me Karkaleca",
+          "description": "Ravioli shtëpiak të mbushur me karkaleca dhe ricotta në salcë të lehtë kremi",
+          "price": 700,
+          "image": "/images/menu/shrimp-ravioli.jpg"
+        },
+        {
+          "name": "Tagliatelle me Karkaleca",
+          "description": "Pasta tagliatelle me karkaleca, domate qershi dhe borzilok",
+          "price": 700,
+          "image": "/images/menu/tagliatelle-shrimp.jpeg"
+        },
+        {
+          "name": "Spaghetti me Fruta Deti",
+          "description": "Spaghetti me fruta deti të përziera në salcë të lehtë domatesh",
+          "price": 600,
+          "image": "/images/menu/seafood-spaghetti.jpeg"
+        },
+        {
+          "name": "Spaghetti Carbonara",
+          "description": "Carbonara klasike me pancetta, vezë, djathë pecorino dhe piper të zi",
+          "price": 600,
+          "image": "/images/menu/carbonara.jpg"
+        },
+        {
+          "name": "Penne Arrabiata",
+          "description": "Pasta penne me salcë pikante domatesh, hudhër dhe spec djegës",
+          "price": 600,
+          "image": "/images/menu/penne-arrabiata.jpg"
+        },
+        {
+          "name": "Rizoto me Karkaleca dhe Kungull",
+          "description": "Rizoto kremëz me karkaleca dhe kungull të pjekur",
+          "price": 600,
+          "image": "/images/menu/shrimp-pumpkin-risotto.jpg"
+        },
+        {
+          "name": "Rizoto me Fruta Deti",
+          "description": "Rizoto kremëz me fruta deti të përziera dhe shafran",
+          "price": 600,
+          "image": "/images/menu/seafood-risotto.webp"
+        }
+      ]
+    },
+    {
+      "id": "fish",
+      "name": "Peshk",
+      "description": "Fruta deti të freskëta të përgatitura me ndikime mesdhetare.",
+      "image": "/images/menu-fish.jpg",
+      "items": [
+        {
+          "name": "Koce",
+          "description": "Koce e pjekur me erëza mesdhetare dhe limon",
+          "price": 1000,
+          "image": "/images/menu/sea-bream.jpg"
+        },
+        {
+          "name": "Filetë Levreku",
+          "description": "Filetë levreku e pjekur me perime sezonale",
+          "price": 1000,
+          "image": "/images/menu/sea-bass.jpg"
+        },
+        {
+          "name": "Karkaleca të Pjekur/Krudo",
+          "description": "Karkaleca të përgatitur të pjekur ose të papërpunuar sipas preferencës suaj",
+          "price": 1200,
+          "image": "/images/menu/grilled-shrimp.webp"
+        },
+        {
+          "name": "Levrek i Pjekur",
+          "description": "Levrek i plotë i pjekur me erëza, limon dhe vaj ulliri",
+          "price": 1400,
+          "image": "/images/menu/baked-sea-bass.jpeg"
+        },
+        {
+          "name": "Salmon i Pjekur ose me Salcë Portokalli",
+          "description": "Salmon i freskët i pjekur ose i shërbyer me salcë portokalli",
+          "price": 1400,
+          "image": "/images/menu/salmon.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "meat",
+      "name": "Mish",
+      "description": "Prerje premium mishi të përgatitura në perfeksion.",
+      "image": "/images/menu-meat.jpg",
+      "items": [
+        {
+          "name": "Mish Dhie 500 gr",
+          "description": "Mish dhie i butë i pjekur në perfeksion",
+          "price": 1500,
+          "image": "/images/menu/goat-meat.jpeg"
+        },
+        {
+          "name": "Mish Qengji",
+          "description": "Kotëleta qengji të pjekura me erëza dhe patate të pjekura",
+          "price": 1400,
+          "image": "/images/menu/lamb-meat.jpg"
+        },
+        {
+          "name": "Mish Viçi 500 gr",
+          "description": "Biftek ose brinjë - të përgatitura sipas preferencës suaj",
+          "price": 1300,
+          "image": "/images/menu/tomahawk-steak.jpg"
+        },
+        {
+          "name": "Mish Derri",
+          "description": "Kotëleta derri të pjekura me erëza dhe perime të pjekura",
+          "price": 1000,
+          "image": "/images/menu/pork-meat.webp"
+        },
+        {
+          "name": "Biftek Tomahawk 1 kg",
+          "description": "Biftek premium i pjekur sipas preferencës suaj",
+          "price": 4000,
+          "image": "/images/menu/tomahawk-steak.jpg"
+        },
+        {
+          "name": "Mish Derri i Karamelizuar",
+          "description": "Mish derri i gatuar ngadalë me glazurë të ëmbël dhe të shijshme",
+          "price": 1200,
+          "image": "/images/menu/sticky-pork.jpeg"
+        },
+        {
+          "name": "Filetë Pule",
+          "description": "Gjoks pule i pjekur me erëza dhe perime sezonale",
+          "price": 900,
+          "image": "/images/menu/chicken-fillet.jpg"
+        }
+      ]
+    },
+    {
+      "id": "traditional",
+      "name": "Kuzhinë Tradicionale",
+      "description": "Specialitete lokale që tregojnë shijet dhe traditat rajonale.",
+      "image": "/images/menu-traditional.jpg",
+      "items": [
+        {
+          "name": "Qofte të Shtëpisë të Pjekura",
+          "description": "Qofte tradicionale të pjekura të përgatitura nga receta jonë familjare",
+          "price": 600,
+          "image": "/images/menu/meatballs.jpg"
+        },
+        {
+          "name": "Mëlçi, Zemër, Shpretka",
+          "description": "Përgatitje tradicionale e organeve me erëza",
+          "price": 700,
+          "image": "/images/menu/organ-meats.webp"
+        },
+        {
+          "name": "Tavë Tradicionale",
+          "description": "Mish dhe perime të gatuara ngadalë në tavë balte",
+          "price": 600,
+          "image": "/images/menu/traditional-casserole.jpg"
+        },
+        {
+          "name": "Tavë Orizi",
+          "description": "Oriz i pjekur me perime dhe erëza",
+          "price": 600,
+          "image": "/images/menu/rice-casserole.jpg"
+        },
+        {
+          "name": "Tavë Elbi",
+          "description": "Elb tradicional me mish dhe perime",
+          "price": 600,
+          "image": "/images/menu/porridge-casserole.webp"
+        },
+        {
+          "name": "Tavë Jufka",
+          "description": "Pasta tradicionale e pjekur me përbërës vendas",
+          "price": 600,
+          "image": "/images/menu/pasta-casserole.jpg"
+        },
+        {
+          "name": "Tavë Qengji me Kos",
+          "description": "Mish qengji i gatuar ngadalë me salcë kosi dhe erëza",
+          "price": 600,
+          "image": "/images/menu/lamb-yogurt.jpeg"
+        },
+        {
+          "name": "Fergesë",
+          "description": "Pjatë tradicionale shqiptare me speca, domate dhe djathë",
+          "price": 350,
+          "image": "/images/menu/fergese.jpeg"
+        },
+        {
+          "name": "Pulë e Pjekur në Skarë",
+          "description": "Pulë e plotë e pjekur në skarën tonë",
+          "price": 1800,
+          "image": "/images/menu/roasted-chicken.jpg"
+        }
+      ]
+    },
+    {
+      "id": "specials",
+      "name": "Specialitete",
+      "description": "Krijime speciale të kuzhinierit që përfshijnë përbërës sezonalë dhe mish gjahu.",
+      "image": "/images/menu-specials.jpg",
+      "items": [
+        {
+          "name": "Kaproll",
+          "description": "Kaproll i pjekur me kërpudha pylli dhe salcë vere të kuqe",
+          "price": 2500,
+          "image": "/images/menu/roe-deer.jpg"
+        },
+        {
+          "name": "Derri i Egër",
+          "description": "Derri i egër i gatuar ngadalë me erëza dhe perime rrënjë",
+          "price": 1200,
+          "image": "/images/menu/wild-boar.webp"
+        },
+        {
+          "name": "Lepur i Egër",
+          "description": "Lepur i gatuar me erëza dhe perime",
+          "price": 6500,
+          "image": "/images/menu/wild-rabbit.jpeg"
+        },
+        {
+          "name": "Fazani",
+          "description": "Fazan i pjekur me perime sezonale",
+          "price": 3500,
+          "image": "/images/menu/pheasant.jpg"
+        },
+        {
+          "name": "Gjel Deti",
+          "description": "Gjel deti i pjekur me mbushje dhe salcë boronice",
+          "price": 2000,
+          "image": "/images/menu/turkey.jpg"
+        }
+      ]
+    },
+    {
+      "id": "pizza",
+      "name": "Pica",
+      "description": "Pica autentike italiane të pjekura në furrë druri.",
+      "image": "/images/menu-pizza.jpg",
+      "items": [
+        {
+          "name": "Margherita",
+          "description": "Salcë domatesh, mocarela dhe borzilok i freskët",
+          "price": 350,
+          "image": "/images/menu/margherita.jpg"
+        },
+        {
+          "name": "Kërpudha",
+          "description": "Salcë domatesh, mocarela dhe kërpudha të përziera",
+          "price": 450,
+          "image": "/images/menu/mushroom-pizza.jpg"
+        },
+        {
+          "name": "Milanese",
+          "description": "Salcë domatesh, mocarela, sallam dhe rigon",
+          "price": 500,
+          "image": "/images/menu/milanese-pizza.jpg"
+        },
+        {
+          "name": "Diavola",
+          "description": "Salcë domatesh, mocarela, sallam pikant dhe spec djegës",
+          "price": 500,
+          "image": "/images/menu/diavola-pizza.jpg"
+        },
+        {
+          "name": "Proshutë dhe Kërpudha",
+          "description": "Salcë domatesh, mocarela, proshutë dhe kërpudha",
+          "price": 550,
+          "image": "/images/menu/ham-mushroom-pizza.jpeg"
+        },
+        {
+          "name": "Katër Stinët",
+          "description": "Salcë domatesh, mocarela, proshutë, kërpudha, angjinare dhe ullinj të ndarë në katër seksione",
+          "price": 550,
+          "image": "/images/menu/four-seasons-pizza.jpeg"
+        },
+        {
+          "name": "Vegjetariane",
+          "description": "Salcë domatesh, mocarela dhe perime të përziera",
+          "price": 500,
+          "image": "/images/menu/vegetarian-pizza.jpg"
+        },
+        {
+          "name": "Ton",
+          "description": "Salcë domatesh, mocarela, ton, qepë dhe ullinj",
+          "price": 550,
+          "image": "/images/menu/tuna-pizza.jpeg"
+        },
+        {
+          "name": "Katër Djathëra",
+          "description": "Mocarela, gorgonzola, parmezan dhe ricotta",
+          "price": 550,
+          "image": "/images/menu/four-cheese-pizza.jpeg"
+        },
+        {
+          "name": "Capricciosa",
+          "description": "Salcë domatesh, mocarela, proshutë, kërpudha, angjinare dhe ullinj",
+          "price": 550,
+          "image": "/images/menu/capricciosa-pizza.webp"
+        },
+        {
+          "name": "Pica Panorama",
+          "description": "Pica jonë speciale me përzgjedhje të kuzhinierit",
+          "price": 700,
+          "image": "/images/menu/panorama-pizza.jpg"
+        },
+        {
+          "name": "Focaccia",
+          "description": "Vaj ulliri, rigon, djathë i bardhë",
+          "price": 200,
+          "image": "/images/menu/focaccia.jpg"
+        },
+        {
+          "name": "Sanduiç",
+          "description": "Majonezë, proshutë, mocarela, domate",
+          "price": 200,
+          "image": "/images/menu/sandwich.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dessert",
+      "name": "Ëmbëlsira",
+      "description": "Përfundime të ëmbla për të plotësuar përvojën tuaj gastronomike.",
+      "image": "/images/menu-dessert.jpg",
+      "items": [
+        {
+          "name": "Akullore",
+          "description": "Përzgjedhje akullore shtëpiake",
+          "price": 250,
+          "image": "/images/menu/ice-cream.jpg"
+        },
+        {
+          "name": "Akullore në Kone",
+          "description": "Lugë akullore në kone vaferi",
+          "price": 200,
+          "image": "/images/menu/ice-cream-cone.jpeg"
+        },
+        {
+          "name": "Fruta me Mjaltë",
+          "description": "Fruta të freskëta sezonale të spërkatura me mjaltë vendas",
+          "price": 300,
+          "image": "/images/menu/fruit-honey.jpeg"
+        },
+        {
+          "name": "Krem Karameli",
+          "description": "Ëmbëlsirë kremi me karamel",
+          "price": 200,
+          "image": "/images/menu/candy-cream.jpg"
+        },
+        {
+          "name": "Panna Cotta",
+          "description": "Ëmbëlsirë kremëze italiane me vanilje dhe sos manaferrash",
+          "price": 200,
+          "image": "/images/menu/panna-cotta.jpeg"
+        },
+        {
+          "name": "Krepë me Çokollatë",
+          "description": "Krepë e hollë e mbushur me çokollatë dhe e mbuluar me krem të rrahur",
+          "price": 150,
+          "image": "/images/menu/chocolate-crepe.jpeg"
+        },
+        {
+          "name": "Krepë me Luleshtrydhe",
+          "description": "Krepë e hollë e mbushur me luleshtrydhe dhe e mbuluar me krem të rrahur",
+          "price": 150,
+          "image": "/images/menu/strawberry-crepe.jpg"
+        },
+        {
+          "name": "Kek Portokalli",
+          "description": "Kek i butë portokalli me glazurë agrumesh",
+          "price": 200,
+          "image": "/images/menu/orange-cake.jpg"
+        },
+        {
+          "name": "Tiramisu",
+          "description": "Ëmbëlsirë klasike italiane me biskota të njomura në kafe dhe krem maskarponë",
+          "price": 300,
+          "image": "/images/menu/tiramisu.webp"
+        },
+        {
+          "name": "Trilece",
+          "description": "Ëmbëlsirë tradicionale me tre lloje qumështi dhe shtresë karameli",
+          "price": 200,
+          "image": "/images/menu/trilece.webp"
+        },
+        {
+          "name": "Sufle Çokollate",
+          "description": "Sufle e ngrohtë çokollate me qendër të shkrirë",
+          "price": 300,
+          "image": "/images/menu/chocolate-souffle.jpeg"
+        },
+        {
+          "name": "Qumësht i Ëmbël Shtëpiak",
+          "description": "Ëmbëlsirë tradicionale me qumësht të ëmbël",
+          "price": 400,
+          "image": "/images/menu/sweet-milk.jpg"
+        }
+      ]
+    },
+    {
+      "id": "cafeteria",
+      "name": "Kafene",
+      "description": "Përzgjedhje premium kafeje dhe çaji.",
+      "image": "/images/menu-cafeteria.jpg",
+      "items": [
+        {
+          "name": "Kafe Turke",
+          "description": "Kafe tradicionale turke",
+          "price": 70,
+          "image": "/images/menu/turkish-coffee.jpg"
+        },
+        {
+          "name": "Espresso",
+          "description": "Kafe e fortë italiane",
+          "price": 80,
+          "image": "/images/menu/espresso.jpg"
+        },
+        {
+          "name": "Macchiato",
+          "description": "Espresso me një pikë qumështi",
+          "price": 80,
+          "image": "/images/menu/macchiato.jpg"
+        },
+        {
+          "name": "Kapuçino",
+          "description": "Espresso me qumësht të avulluar dhe shkumë",
+          "price": 150,
+          "image": "/images/menu/cappuccino.jpg"
+        },
+        {
+          "name": "Correto",
+          "description": "Espresso me një dozë likeri",
+          "price": 150,
+          "image": "/images/menu/correto.jpg"
+        },
+        {
+          "name": "Çaj i Ngrohtë",
+          "description": "Përzgjedhje çajrash",
+          "price": 70,
+          "image": "/images/menu/hot-tea.webp"
+        },
+        {
+          "name": "Çaj Organik",
+          "description": "Përzgjedhje çajrash bimore organike",
+          "price": 150,
+          "image": "/images/menu/organic-tea.jpeg"
+        },
+        {
+          "name": "Qumësht",
+          "description": "Qumësht i freskët",
+          "price": 70,
+          "image": "/images/menu/milk.jpg"
+        },
+        {
+          "name": "Salep",
+          "description": "Pije tradicionale e ngrohtë e bërë nga mielli i orkideve",
+          "price": 150,
+          "image": "/images/menu/salep.jpg"
+        },
+        {
+          "name": "Çokollatë e Ngrohtë",
+          "description": "Çokollatë e pasur dhe kremëze e ngrohtë",
+          "price": 150,
+          "image": "/images/menu/hot-chocolate.webp"
+        },
+        {
+          "name": "Nescafe",
+          "description": "Kafe instant",
+          "price": 180,
+          "image": "/images/menu/nescafe.webp"
+        }
+      ]
+    },
+    {
+      "id": "fresh-drinks",
+      "name": "Pije Freskuese",
+      "description": "Pije freskuese jo-alkoolike dhe lëngje të freskëta.",
+      "image": "/images/menu-fresh-drinks.jpg",
+      "items": [
+        {
+          "name": "Lëng Bravo",
+          "description": "Lëng frutash i paketuar",
+          "price": 150,
+          "image": "/images/menu/bravo-juice.webp"
+        },
+        {
+          "name": "Çaj i Ftohtë",
+          "description": "Çaj freskues i ftohtë",
+          "price": 150,
+          "image": "/images/menu/iced-tea.jpg"
+        },
+        {
+          "name": "Coca-Cola",
+          "description": "Pije klasike cola",
+          "price": 150,
+          "image": "/images/menu/coca-cola.png"
+        },
+        {
+          "name": "Fanta",
+          "description": "Pije gazuese portokalli",
+          "price": 150,
+          "image": "/images/menu/fanta.jpeg"
+        },
+        {
+          "name": "Sprite",
+          "description": "Pije gazuese limon-gëlqere",
+          "price": 150,
+          "image": "/images/menu/sprite.webp"
+        },
+        {
+          "name": "Soda Limon",
+          "description": "Ujë i gazuar me limon",
+          "price": 150,
+          "image": "/images/menu/soda-limon.webp"
+        },
+        {
+          "name": "Lëng i Freskët",
+          "description": "Fruta sezonale të shtrydhura freskët",
+          "price": 200,
+          "image": "/images/menu/fresh-juice.jpg"
+        },
+        {
+          "name": "Nescafe e Ftohtë",
+          "description": "Kafe instant e ftohtë",
+          "price": 150,
+          "image": "/images/menu/cold-nescafe.webp"
+        },
+        {
+          "name": "Suko",
+          "description": "Lëng frutash vendas",
+          "price": 70,
+          "image": "/images/menu/suko.webp"
+        },
+        {
+          "name": "Bitter",
+          "description": "Aperitiv bitter italian",
+          "price": 100,
+          "image": "/images/menu/bitter.webp"
+        },
+        {
+          "name": "Schweppes",
+          "description": "Ujë tonik",
+          "price": 150,
+          "image": "/images/menu/schweppes.jpeg"
+        },
+        {
+          "name": "Crodino",
+          "description": "Aperitiv jo-alkoolik bitter",
+          "price": 120,
+          "image": "/images/menu/crodino.jpg"
+        },
+        {
+          "name": "B52",
+          "description": "Koktej me liker kafeje, krem irlandez dhe liker portokalli",
+          "price": 150,
+          "image": "/images/menu/b52.jpeg"
+        },
+        {
+          "name": "RedBull",
+          "description": "Pije energjike",
+          "price": 300,
+          "image": "/images/menu/redbull.jpg"
+        },
+        {
+          "name": "Shishe Uji",
+          "description": "Ujë mineral i pashkëlqyer",
+          "price": 60,
+          "image": "/images/menu/water-bottle.webp"
+        },
+        {
+          "name": "Ujë Premium",
+          "description": "Ujë premium i pashkëlqyer ose i gazuar",
+          "price": 200,
+          "image": "/images/menu/premium-water.png"
+        },
+        {
+          "name": "Fredo Latte",
+          "description": "Kafe e ftohtë me qumësht dhe akull",
+          "price": 200,
+          "image": "/images/menu/fredo-latte.jpeg"
+        },
+        {
+          "name": "Kapuçino Fredo",
+          "description": "Kapuçino e ftohtë me akull",
+          "price": 200,
+          "image": "/images/menu/cappuccino-fredo.jpeg"
+        },
+        {
+          "name": "Çokollatë Fredo",
+          "description": "Pije çokollate e ftohtë me akull",
+          "price": 200,
+          "image": "/images/menu/chocolate-fredo.jpg"
+        }
+      ]
+    },
+    {
+      "id": "beer",
+      "name": "Birrë",
+      "description": "Përzgjedhje e birrave lokale dhe ndërkombëtare.",
+      "image": "/images/menu-beer.jpg",
+      "items": [
+        {
+          "name": "Birrë e Vogël",
+          "description": "Gotë e vogël birre",
+          "price": 100,
+          "image": "/images/menu/small-draft-beer.jpg"
+        },
+        {
+          "name": "Birrë e Madhe",
+          "description": "Gotë e madhe birre",
+          "price": 200,
+          "image": "/images/menu/large-draft-beer.webp"
+        },
+        {
+          "name": "Birrë e Fortë",
+          "description": "Birrë me përmbajtje të lartë alkooli",
+          "price": 200,
+          "image": "/images/menu/strong-beer.jpg"
+        },
+        {
+          "name": "Amstel",
+          "description": "Birrë e zbehtë holandeze",
+          "price": 200,
+          "image": "/images/menu/amstel.jpg"
+        },
+        {
+          "name": "Heineken",
+          "description": "Birrë premium holandeze",
+          "price": 250,
+          "image": "/images/menu/heineken.jpeg"
+        },
+        {
+          "name": "Paulaner",
+          "description": "Birrë gruri gjermane",
+          "price": 350,
+          "image": "/images/menu/paulaner.png"
+        },
+        {
+          "name": "Pilsner Çeke",
+          "description": "Pilsner tradicionale çeke",
+          "price": 150,
+          "image": "/images/menu/czech-pilsner.webp"
+        },
+        {
+          "name": "Corona",
+          "description": "Birrë e zbehtë meksikane",
+          "price": 350,
+          "image": "/images/menu/corona.jpeg"
+        },
+        {
+          "name": "Kullë Birre",
+          "description": "Kullë 3-litërshe birre për ndarje",
+          "price": 700,
+          "image": "/images/menu/beer-tower.webp"
+        }
+      ]
+    },
+    {
+      "id": "alcohol",
+      "name": "Pije Alkoolike",
+      "description": "Pije alkoolike premium dhe kokteje të veçanta.",
+      "image": "/images/menu-alcohol.jpg",
+      "items": [
+        {
+          "name": "Johnnie Walker Blue",
+          "description": "Uiski skocez luksoz i përzier",
+          "price": 2500,
+          "image": "/images/menu/johnnie-walker-blue.webp"
+        },
+        {
+          "name": "Disaronno",
+          "description": "Liker bajamesh italian",
+          "price": 250,
+          "image": "/images/menu/disaronno.jpeg"
+        },
+        {
+          "name": "Amaro Lucano",
+          "description": "Liker bimor italian",
+          "price": 250,
+          "image": "/images/menu/amaro-lucano.webp"
+        },
+        {
+          "name": "Montenegro",
+          "description": "Amaro italian",
+          "price": 250,
+          "image": "/images/menu/montenegro.jpg"
+        },
+        {
+          "name": "Ramazotti",
+          "description": "Amaro italian",
+          "price": 250,
+          "image": "/images/menu/ramazotti.jpg"
+        },
+        {
+          "name": "Vecchia Romagna",
+          "description": "Brandy italiane",
+          "price": 250,
+          "image": "/images/menu/vecchia-romagna.jpg"
+        },
+        {
+          "name": "Fernet Branca",
+          "description": "Amaro italian",
+          "price": 250,
+          "image": "/images/menu/fernet-branca.jpg"
+        },
+        {
+          "name": "Bacardi",
+          "description": "Rom i bardhë",
+          "price": 250,
+          "image": "/images/menu/bacardi.jpg"
+        },
+        {
+          "name": "Baileys",
+          "description": "Liker kremi irlandez",
+          "price": 250,
+          "image": "/images/menu/baileys.jpg"
+        },
+        {
+          "name": "Ballantine's",
+          "description": "Uiski skocez i përzier",
+          "price": 250,
+          "image": "/images/menu/ballantines.jpg"
+        },
+        {
+          "name": "Campari",
+          "description": "Liker i hidhur italian",
+          "price": 200,
+          "image": "/images/menu/campari.webp"
+        },
+        {
+          "name": "Cardinal",
+          "description": "Koktej me xhin dhe vermut të kuq",
+          "price": 350,
+          "image": "/images/menu/cardinal.jpeg"
+        },
+        {
+          "name": "Chivas Regal",
+          "description": "Uiski skocez i përzier",
+          "price": 350,
+          "image": "/images/menu/chivas-regal.jpeg"
+        },
+        {
+          "name": "Cutty Sark",
+          "description": "Uiski skocez i përzier",
+          "price": 250,
+          "image": "/images/menu/cutty-sark.jpg"
+        },
+        {
+          "name": "Dimple",
+          "description": "Uiski skocez premium i përzier",
+          "price": 350,
+          "image": "/images/menu/dimple.jpeg"
+        },
+        {
+          "name": "Glengrand",
+          "description": "Uiski skocez single malt",
+          "price": 300,
+          "image": "/images/menu/glengrand.webp"
+        },
+        {
+          "name": "Haig Gold",
+          "description": "Uiski skocez i përzier",
+          "price": 350,
+          "image": "/images/menu/haig-gold.jpeg"
+        },
+        {
+          "name": "J&B",
+          "description": "Uiski skocez i përzier",
+          "price": 250,
+          "image": "/images/menu/j-and-b.png"
+        },
+        {
+          "name": "Jack Daniel's",
+          "description": "Uiski Tennessee",
+          "price": 300,
+          "image": "/images/menu/jack-daniels.webp"
+        },
+        {
+          "name": "Johnnie Walker",
+          "description": "Uiski skocez i përzier",
+          "price": 250,
+          "image": "/images/menu/johnnie-walker.webp"
+        },
+        {
+          "name": "Johnnie Walker Black",
+          "description": "Uiski skocez premium i përzier",
+          "price": 350,
+          "image": "/images/menu/johnnie-black.webp"
+        },
+        {
+          "name": "Jägermeister",
+          "description": "Liker bimor gjerman",
+          "price": 200,
+          "image": "/images/menu/jagermeister.jpg"
+        },
+        {
+          "name": "Limoncello",
+          "description": "Liker limoni italian",
+          "price": 250,
+          "image": "/images/menu/limoncello.webp"
+        },
+        {
+          "name": "Malibu",
+          "description": "Liker romi me kokos",
+          "price": 250,
+          "image": "/images/menu/malibu.jpg"
+        },
+        {
+          "name": "Martini",
+          "description": "Vermut italian",
+          "price": 200,
+          "image": "/images/menu/martini.png"
+        },
+        {
+          "name": "Metaxa 3*",
+          "description": "Brandy greke",
+          "price": 250,
+          "image": "/images/menu/metaxa-3.jpeg"
+        },
+        {
+          "name": "Metaxa 5*",
+          "description": "Brandy greke",
+          "price": 300,
+          "image": "/images/menu/metaxa-5.jpg"
+        },
+        {
+          "name": "Rom",
+          "description": "Rom i errët",
+          "price": 250,
+          "image": "/images/menu/rum.webp"
+        },
+        {
+          "name": "Sambuca",
+          "description": "Liker italian me shije anisi",
+          "price": 250,
+          "image": "/images/menu/sambuca.webp"
+        },
+        {
+          "name": "Sheridans",
+          "description": "Liker i shtresuar kafeje dhe vanilje",
+          "price": 300,
+          "image": "/images/menu/sheridans.png"
+        },
+        {
+          "name": "Sierra Tequila",
+          "description": "Tekila meksikane",
+          "price": 250,
+          "image": "/images/menu/sierra-tequila.webp"
+        },
+        {
+          "name": "Absolut",
+          "description": "Vodkë suedeze",
+          "price": 250,
+          "image": "/images/menu/absolut.jpg"
+        },
+        {
+          "name": "Vodkë Arctic",
+          "description": "Vodkë premium",
+          "price": 250,
+          "image": "/images/menu/arctic-vodka.jpg"
+        },
+        {
+          "name": "Finlandia",
+          "description": "Vodkë finlandeze",
+          "price": 250,
+          "image": "/images/menu/finlandia.jpg"
+        },
+        {
+          "name": "Vodkë Gorbachev",
+          "description": "Vodkë gjermane",
+          "price": 250,
+          "image": "/images/menu/gorbachev-vodka.jpeg"
+        },
+        {
+          "name": "Keglevich",
+          "description": "Vodkë italiane",
+          "price": 250,
+          "image": "/images/menu/keglevich.jpg"
+        },
+        {
+          "name": "Vodkë Pushkin",
+          "description": "Vodkë ruse",
+          "price": 250,
+          "image": "/images/menu/pushkin-vodka.jpeg"
+        },
+        {
+          "name": "Smirnoff",
+          "description": "Vodkë ruse",
+          "price": 250,
+          "image": "/images/menu/smirnoff.jpg"
+        },
+        {
+          "name": "Gin",
+          "description": "Xhin i thatë londinez",
+          "price": 250,
+          "image": "/images/menu/gin.png"
+        },
+        {
+          "name": "Skënderbeu",
+          "description": "Brandy shqiptare",
+          "price": 100,
+          "image": "/images/menu/skenderbeu.jpg"
+        },
+        {
+          "name": "Raki Rrushi",
+          "description": "Raki rrushi vendase",
+          "price": 100,
+          "image": "/images/menu/grape-brandy.png"
+        },
+        {
+          "name": "Raki Mjedre",
+          "description": "Raki mjedre vendase",
+          "price": 200,
+          "image": "/images/menu/raspberry-brandy.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "wine",
+      "name": "Verë",
+      "description": "Përzgjedhje e kuruar e verërave lokale dhe ndërkombëtare.",
+      "image": "/images/menu-wine.jpg",
+      "items": [
+        {
+          "name": "Gotë Vere",
+          "description": "Verë premium me gotë",
+          "price": 200,
+          "image": "/images/menu/wine-glass.webp"
+        },
+        {
+          "name": "Verë Shtëpie",
+          "description": "Verë e kuqe, e bardhë ose rozë me gotë",
+          "price": 500,
+          "image": "/images/menu/house-wine.jpeg"
+        },
+        {
+          "name": "Verë Premium",
+          "description": "Shishe vere premium vendase ose të importuar",
+          "price": 1200,
+          "image": "/images/menu/premium-wine.png"
+        }
+      ]
+    }
+  ],
+  "privateDining": {
+    "title": "Eksperiencë Private Darkimi",
+    "description": "Për raste të veçanta, ne ofrojmë përvoja ekskluzive private të darkimit. Nga darkat romantike në plazh deri te festimet familjare në dhomën tonë private të ngrënies, ekipi ynë do të krijojë një udhëtim kulinar të paharrueshëm të përshtatur sipas preferencave tuaja.",
+    "buttonText": "Pyesni Tani",
+    "image": "/images/about-us.jpg"
+  }
+}

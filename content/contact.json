@@ -1,0 +1,83 @@
+{
+  "hero": {
+    "title": "Contact Us",
+    "image": "/images/rooms.jpg"
+  },
+  "getInTouch": {
+    "title": "Get in Touch",
+    "subtitle": "We're here to help make your stay perfect. Contact us with any questions or to book your reservation.",
+    "contactInfo": [
+      {
+        "icon": "phone",
+        "title": "Phone",
+        "lines": ["Reservations: +355 69 207 0062", "Front Desk: +355 69 207 0062"]
+      },
+      {
+        "icon": "mail",
+        "title": "Email",
+        "lines": ["General Inquiries: info@panoramaresortelbasan.com"]
+      },
+      {
+        "icon": "mapPin",
+        "title": "Address",
+        "lines": ["Rruga Teqes Mengel", "Elbasan 3006"]
+      }
+    ]
+  },
+  "bookingCta": {
+    "title": "Ready to Book Your Stay?",
+    "description": "Visit our booking page to check availability and reserve your room at Panorama Resort.",
+    "buttonText": "Book Now",
+    "buttonLink": "https://www.booking.com/hotel/al/panorama-elbasan-elbasan1.en-gb.html?aid=304142&label=gen173nr-1FCAEoggI46AdIM1gEaAaIAQGYAQm4ARfIAQzYAQHoAQH4AQyIAgGoAgO4AuDH-cAGwAIB0gIkMDA5YzMxOWEtYjhhYy00YjYyLWFiZDQtMWEzNDViOWFlMTc52AIG4AIB&sid=610e73e812925abaef32a4c569761da7&dest_id=-104633&dest_type=city&dist=0&group_adults=2&group_children=0&hapos=1&hpos=1&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&srepoch=1746824930&srpvid=920194af0ea4036b&type=total&ucfs=1&"
+  },
+  "map": {
+    "title": "Find Us",
+    "description": "Located in the beautiful city of Elbasan, Panorama Resort offers easy access to local attractions while providing a peaceful retreat from the bustle of everyday life."
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Find answers to our most commonly asked questions. If you don't see what you're looking for, please contact us.",
+    "questions": [
+      {
+        "question": "What are the check-in and check-out times?",
+        "answer": "Check-in is from 3:00 PM and check-out is until 11:00 AM. Early check-in and late check-out may be possible depending on availability — just let us know in advance."
+      },
+      {
+        "question": "Is Wi-Fi available at the resort?",
+        "answer": "Yes, we offer free high-speed Wi-Fi throughout the entire resort, including all rooms and public areas."
+      },
+      {
+        "question": "Is horse riding available at the resort?",
+        "answer": "Yes! Horse riding is available right inside the resort in our dedicated area. It's suitable for all ages and experience levels."
+      },
+      {
+        "question": "Do you have a swimming pool open year-round?",
+        "answer": "Yes, we have both an outdoor summer pool and a heated indoor pool that is open year-round. There's also a sauna for extra relaxation."
+      },
+      {
+        "question": "Can I enjoy traditional Albanian food at the resort?",
+        "answer": "Absolutely. Our restaurant offers a range of traditional Albanian dishes prepared with fresh, local ingredients."
+      },
+      {
+        "question": "Is there live entertainment at the resort?",
+        "answer": "We occasionally host evenings with live traditional music to offer guests a taste of Albanian culture in a warm, welcoming atmosphere."
+      },
+      {
+        "question": "Is the resort suitable for families?",
+        "answer": "Yes, Panorama Resort is family-friendly. We offer family rooms, a children's area in the pool, and safe outdoor spaces for kids to enjoy."
+      },
+      {
+        "question": "Are pets allowed?",
+        "answer": "We currently do not accommodate pets at the resort."
+      },
+      {
+        "question": "Do you offer free parking?",
+        "answer": "Yes, private parking is available free of charge for all guests."
+      },
+      {
+        "question": "Do you offer any seasonal packages or promotions?",
+        "answer": "Yes! We regularly offer seasonal deals. Please check our website or contact our team for the latest packages."
+      }
+    ]
+  }
+}

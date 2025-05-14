@@ -1,0 +1,201 @@
+{
+  "hero": {
+    "slides": [
+      {
+        "image": "/images/hero-1.jpg",
+        "title": "Mirë se vini në Panorama Resort Elbasan",
+        "subtitle": "Një vend për t'u relaksuar, përjetuar dhe shijuar momente të paharrueshme.",
+        "buttonText": "Rreth Nesh",
+        "buttonLink": "/about"
+      },
+      {
+        "image": "/images/hero-2.jpg",
+        "title": "Resort Panorama Elbasan – Elegancë dhe Relaksim në Zemër të Shqipërisë",
+        "subtitle": "Dhoma moderne me pamje panoramike për një qëndrim të paharrueshëm.",
+        "buttonText": "Dhomat Tona",
+        "buttonLink": "/rooms"
+      },
+      {
+        "image": "/images/hero-3.jpg",
+        "title": "Përvoja unike dhe hapësira relaksuese",
+        "subtitle": "Ambientet tona të pasura dhe aktivitetet unike ju presin për një përvojë të paharrueshme.",
+        "buttonText": "Aktivitetet",
+        "buttonLink": "/activities"
+      }
+    ]
+  },
+  "welcome": {
+    "title": "Mirë se vini në Panorama Resort",
+    "description": "I vendosur në një mjedis paqësor dhe natyror, Panorama Resort ofron arratisjen perfekte ku komoditeti, relaksimi dhe natyra bashkohen në harmoni. Nëse jeni në kërkim të një retreati të qetë ose aventurave në natyrë, këtu do të gjeni vendin ideal për një qëndrim të paharrueshëm.",
+    "button": "Eksploro Më Shumë"
+  },
+  "features": {
+    "title": "Karakteristikat e Resortit",
+    "subtitle": "Zbuloni çfarë e bën të veçantë resortin tonë",
+    "items": [
+      {
+        "icon": "🛏️",
+        "title": "Elegancë dhe relaksim në çdo qëndrim",
+        "description": "Relaksohuni në dhoma komode, të dizajnuara me stil, të krijuara për t'ju ofruar komoditet maksimal dhe qetësi në zemër të natyrës."
+      },
+      {
+        "icon": "🍽️",
+        "title": "Shije Autentike Shqiptare",
+        "description": "Shijoni kuzhinën tradicionale shqiptare në restorantin tonë, ku recetat autentike përgatiten me përbërës të freskët, lokalë, duke ju sjellë shije të vërteta dhe mikpritje të ngrohtë."
+      },
+      {
+        "icon": "🏇",
+        "title": "Aktivitete dhe përvoja unike",
+        "description": "Relaksohuni pranë pishinës, eksploroni natyrën përreth, ose përjetoni emocionin e kalërimit. Panorama Resort ofron aktivitete dhe përvoja për çdo moshë dhe çdo pasion, duke e bërë çdo qëndrim vërtet të veçantë."
+      }
+    ]
+  },
+  "roomsSection": {
+    "title": "Dhomat & Komoditetet",
+    "subtitle": "Dhomat tona janë projektuar për të ofruar një qëndrim relaksues dhe komod, qoftë nëse udhëtoni vetëm, si çift, apo me familjen tuaj.\nÇdo hapësirë pasqyron ngrohtësi, funksionalitet dhe atmosferën qetësuese të mjedisit tonë natyror.\nÇdo dhomë përfshin krevate komode, një banjë private, Wi-Fi falas dhe pamje të bukura të zonës përreth — gjithçka që ju nevojitet për një qëndrim të qetë dhe të këndshëm.",
+    "viewAllText": "Shikoni Të Gjitha Dhomat",
+    "rooms": [
+      {
+        "id": 1,
+        "name": "Dhomë Cift",
+        "description": "Ideale për çifte ose miq që udhëtojnë së bashku dhe që kërkojnë privatëso dhe një përvojë relaksuese.",
+        "price": "60€",
+        "image": "/images/Double-1.png"
+      },
+      {
+        "id": 2,
+        "name": "Dhomë Cift me Spa",
+        "description": "Ideale për çifte ose miq që udhëtojnë së bashku.",
+        "price": "67€",
+        "image": "/images/Doublee-1.png"
+      },
+      {
+        "id": 3,
+        "name": "Dhomë Familjare",
+        "description": "E gjerë dhe komode për familjet me fëmijë.",
+        "price": "80€",
+        "image": "/images/Family-1.png"
+      }
+    ]
+  },
+  "activitiesSection": {
+    "title": "Relaksim dhe përvoja, të gjitha në një vend",
+    "subtitle": "Nga pishina të ngrohta dhe sauna deri te kalërimi dhe mjediset natyrore — këtu, relaksimi dhe aventura shkojnë dorë për dore.",
+    "viewAllText": "Shikoni Të Gjitha Aktivitetet",
+    "activities": [
+      {
+        "id": 1,
+        "title": "Pishinë e Jashtme me Pamje Natyrore & Urbane",
+        "description": "Freskohuni dhe çlodhuni në pishinën tonë të jashtme, ku qetësia e natyrës takohet me pamjet panoramike të Elbasanit.",
+        "image": "/images/pool-1.jpg",
+        "duration": "Hapur çdo ditë",
+        "difficulty": "Të gjitha nivelet"
+      },
+      {
+        "id": 2,
+        "title": "Sauna & Relaksim",
+        "description": "Lëreni stresin të shkrihet",
+        "image": "/images/sauna-1.jpg",
+        "duration": "Me rezervim",
+        "difficulty": "Të gjitha nivelet"
+      },
+      {
+        "id": 3,
+        "title": "Një Përvojë Unike, Pikërisht në Resort",
+        "description": "Shijoni magjinë e kalërimit në një hapësirë të dedikuar brenda Panorama Resort. Është një aktivitet i qetë, i këndshëm i përshtatshëm për të gjitha moshat — nuk nevojitet përvojë, vetëm dashuri për natyrën dhe kafshët",
+        "image": "/images/horsee-1.jpg",
+        "duration": "Akses 24/7",
+        "difficulty": "Të gjitha nivelet"
+      }
+    ]
+  },
+   "menuSection": {
+    "title": "Një Shije e Menusë Sonë",
+    "subtitle": "Eksploroni një përzgjedhje të pjatave tona më të mira, të përgatitura me përbërës të freskët dhe ekspertizë kulinare.",
+    "viewMenuText": "Shiko Menunë e Plotë",
+    "menuItems": [
+      {
+        "id": 1,
+        "name": "Sallatë Fshati",
+        "description": "Domate të freskëta, kastravecë, speca, ullinj dhe djathë feta me vaj ulliri",
+        "price": "€8",
+        "image": "/images/menu/village-salad.jpg",
+        "category": "Sallata"
+      },
+      {
+        "id": 2,
+        "name": "Rizoto me Fruta Deti",
+        "description": "Rizoto kremëz me fruta deti të freskëta dhe erëza",
+        "price": "€16",
+        "image": "/images/menu/seafood-risotto.png",
+        "category": "Pasta & Rizoto"
+      },
+      {
+        "id": 3,
+        "name": "Levrek i Pjekur",
+        "description": "Levrek i freskët i pjekur në perfeksion me limon dhe erëza",
+        "price": "€22",
+        "image": "/images/menu/sea-bass.png",
+        "category": "Peshk"
+      },
+      {
+        "id": 4,
+        "name": "Biftek Viçi",
+        "description": "Biftek viçi premium i gatuar sipas preferencës suaj",
+        "price": "€25",
+        "image": "/images/menu/tomahawk-steak.png",
+        "category": "Mish"
+      },
+      {
+        "id": 5,
+        "name": "Tiramisu",
+        "description": "Ëmbëlsirë klasike italiane me biskota të njoma në kafe dhe krem maskarponë",
+        "price": "€7",
+        "image": "/images/menu/tiramisu.png",
+        "category": "Ëmbëlsira"
+      },
+      {
+        "id": 6,
+        "name": "Pica Margarita",
+        "description": "Picë tradicionale me salcë domatesh, mocarela dhe borzilok të freskët",
+        "price": "€12",
+        "image": "/images/menu/margherita.png",
+        "category": "Pica"
+      }
+    ]
+  },
+  "testimonialsSection": {
+  "title": "Çfarë Thonë Vizitorët Tanë",
+  "subtitle": "Mos na besoni vetëm neve — shihni çfarë kanë për të thënë vizitorët tanë për qëndrimin e tyre në Panorama Resort.",
+  "testimonials": [
+    {
+      "name": "John Smith",
+      "location": "New York, SHBA",
+      "rating": 5,
+      "quote": "Kaluam një qëndrim të mrekullueshëm në Panorama Resort. Pamjet ishin mahnitëse, stafi jashtëzakonisht miqësor dhe i kujdesshëm, dhe ushqimi ishte i shkëlqyer.",
+      "date": "2 javë më parë"
+    },
+    {
+      "name": "Sarah Johnson",
+      "location": "Londër, MB",
+      "rating": 5,
+      "quote": "Arratisja perfekte! Dhoma ishte e gjerë dhe e rehatshme, dhe zona e pishinës ishte shumë relaksuese. Me siguri do të kthehemi përsëri.",
+      "date": "1 muaj më parë"
+    },
+    {
+      "name": "Michael Brown",
+      "location": "Berlin, Gjermani",
+      "rating": 4,
+      "quote": "Resort i shkëlqyer me shërbime të mrekullueshme. Trajtimet në spa ishin të klasit të parë, dhe pamjet nga dhoma jonë drejt maleve ishin spektakolare.",
+      "date": "3 muaj më parë"
+    }
+  ]
+},
+  "ctaSection": {
+    "title": "Gati të Përjetoni Parajsën?",
+    "subtitle": "Rezervoni qëndrimin tuaj tani dhe shijoni ofertat tona speciale",
+    "buttonText": "Rezervo Tani",
+    "buttonLink": "https://www.see-albania.com/hotel/hotel-panorama-spa-elbasan",
+    "backgroundImage": "/images/about-us.jpg"
+  }
+}

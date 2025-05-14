@@ -1,0 +1,69 @@
+{
+  "hero": {
+    "title": "About Us",
+    "subtitle": "Learn more about our story and vision",
+    "image": "/images/about-us.jpg"
+  },
+  "story": {
+    "title": "A Place Where Nature Meets Comfort",
+    "subtitle": "",
+    "description": "Panorama Resort was born from a simple idea — to create a peaceful retreat where guests can unwind, reconnect with nature, and enjoy true Albanian hospitality.\n\nNestled in the calm surroundings of Elbasan, our resort offers the perfect balance of comfort and outdoor experience. Over the years, it has grown from a local hideaway into a destination loved for its authentic charm.\n\nGuests can enjoy delicious traditional cuisine at our restaurant, relax in both summer and winter pools, or embrace nature through activities like horse riding and walking trails — all surrounded by fresh mountain air and greenery.\n\nPanorama Resort remains a family-run place rooted in warmth, nature, and culture. We're proud to welcome every guest not just as a visitor, but as part of our story.",
+    "image": "/images/story.jpg"
+  },
+  "mission": {
+    "title": "Our Mission",
+    "description": "At Panorama Resort, our mission is to provide an unparalleled hospitality experience that celebrates the natural beauty of Albania while offering world-class comfort and service. We strive to create meaningful moments that turn into lasting memories for our guests, and to be a positive force in our community and environment."
+  },
+  "values": {
+    "title": "What Guides Us at Panorama Resort",
+    "subtitle": "Our values shape everything we do — from the way we welcome guests to how we care for our surroundings. At Panorama Resort, we believe in offering not just a stay, but a meaningful experience.",
+    "items": [
+      {
+        "title": "🏆 Authenticity",
+        "description": "We stay true to our roots, offering real Albanian hospitality, traditional flavors, and an atmosphere that reflects the local culture.",
+        "icon": "star"
+      },
+      {
+        "title": "🫱‍🫲 Hospitality",
+        "description": "Every guest is welcomed like family. We take pride in creating a warm, friendly, and relaxed environment that feels like home.",
+        "icon": "heart"
+      },
+      {
+        "title": "🌱 Harmony with Nature",
+        "description": "We respect and preserve the beauty that surrounds us, encouraging slow, conscious travel and sustainable practices for future generations.",
+        "icon": "leaf"
+      }
+    ]
+  },
+  "team": {
+    "title": "Our Team",
+    "subtitle": "Meet the dedicated professionals behind Panorama Resort",
+    "members": [
+      {
+        "name": "Elena Hoxha",
+        "position": "General Manager",
+        "image": "/placeholder.svg?height=400&width=400&query=professional woman hotel manager"
+      },
+      {
+        "name": "Artan Berisha",
+        "position": "Head Chef",
+        "image": "/placeholder.svg?height=400&width=400&query=professional male chef"
+      },
+      {
+        "name": "Mira Krasniqi",
+        "position": "Spa Director",
+        "image": "/placeholder.svg?height=400&width=400&query=spa director professional woman"
+      },
+      {
+        "name": "Dritan Rama",
+        "position": "Activities Coordinator",
+        "image": "/placeholder.svg?height=400&width=400&query=outdoor activities coordinator"
+      }
+    ]
+  },
+  "location": {
+    "title": "Our Location",
+    "subtitle": "Discover the beauty of Elbasan",
+    "description": "Nestled in the picturesque mountains near Elbasan, Panorama Resort offers a perfect blend of accessibility and seclusion. Just a short drive from Elbasan city center and approximately an hour from Tirana International Airport, our resort is easy to reach yet feels worlds away from the hustle and bustle of everyday life.\n\nOur location provides the ideal base for exploring the natural and cultural treasures of central Albania. From historic castles and ancient ruins to stunning hiking trails and pristine lakes, there's no shortage of attractions to discover during your stay with us."
+  }
+}
