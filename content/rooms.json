@@ -8,7 +8,7 @@
     "rooms": [
       {
         "id": 1,
-        "name": "Double Room",
+        "name": "Double Room with two beds",
         "description": "Our comfortable Double Rooms are perfect for travelers, offering all the essential amenities in a cozy, well-designed space.",
         "price": 60,
         "size": 35,
@@ -30,7 +30,7 @@
       },
       {
         "id": 2,
-        "name": "Double Room with Spa",
+        "name": "Double Room with King Bed",
         "description": "Designed for couples or friends traveling together, our Double Rooms provide a perfect balance of comfort and style.",
         "price": 67,
         "size": 35,
