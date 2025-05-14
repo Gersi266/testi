@@ -57,14 +57,14 @@
     "rooms": [
       {
         "id": 1,
-        "name": "Dhomë Cift",
-        "description": "Ideale për çifte ose miq që udhëtojnë së bashku dhe që kërkojnë privatëso dhe një përvojë relaksuese.",
+        "name": "Dhomë Dyshe me krevate tek",
+        "description": "Ideale për miq që udhëtojnë së bashku dhe që kërkojnë privatësi dhe një përvojë relaksuese.",
         "price": "60€",
         "image": "/images/Double-1.png"
       },
       {
         "id": 2,
-        "name": "Dhomë Cift me Spa",
+        "name": "Dhomë Cift me Krevat Dopio",
         "description": "Ideale për çifte ose miq që udhëtojnë së bashku.",
         "price": "67€",
         "image": "/images/Doublee-1.png"
