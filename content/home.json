@@ -57,14 +57,14 @@
     "rooms": [
       {
         "id": 1,
-        "name": "Double Room",
-        "description": "Ideal for couples or friends traveling together seeking peace and privacy.",
+        "name": "Double Room with Single Beds",
+        "description": "Ideal for friends traveling together seeking peace and privacy.",
         "price": "60€",
         "image": "/images/Double-1.png"
       },
       {
         "id": 2,
-        "name": "Double Room with SPA",
+        "name": "Double Room with King Bed",
         "description": "Ideal for couples seeking peace and privacy.",
         "price": "67€",
         "image": "/images/Doublee-1.png"
