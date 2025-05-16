@@ -32,7 +32,7 @@ export default function Footer() {
         restaurant: "Restaurant: 7:00 AM - 10:00 PM",
         spa: "Spa: 9:00 AM - 8:00 PM",
       },
-      copyright: "© 2025 Paradise Resort. All rights reserved.",
+      copyright: "© 2025 Panorama Resort. All rights reserved.",
       privacy: "Privacy Policy",
       terms: "Terms of Service",
     },
