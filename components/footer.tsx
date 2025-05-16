@@ -58,7 +58,7 @@ export default function Footer() {
         restaurant: "Restoranti: 7:00 - 22:00",
         spa: "Spa: 9:00 - 20:00",
       },
-      copyright: "© 2025 Paradise Resort. Të gjitha të drejtat e rezervuara.",
+      copyright: "© 2025 Panorama Resort. Të gjitha të drejtat e rezervuara.",
       privacy: "Politika e Privatësisë",
       terms: "Kushtet e Përdorimit",
     },
