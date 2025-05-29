@@ -118,7 +118,7 @@
         "id": 1,
         "name": "Village Salad",
         "description": "Fresh tomatoes, cucumbers, peppers, olives, and feta cheese with olive oil",
-        "price": "€8",
+        "price": "€3",
         "image": "/images/menu/village-salad.jpg",
         "category": "Salads"
       },
@@ -126,7 +126,7 @@
         "id": 2,
         "name": "Seafood Risotto",
         "description": "Creamy risotto with fresh seafood and herbs",
-        "price": "€16",
+        "price": "€6",
         "image": "/images/menu/seafood-risotto.webp",
         "category": "Pasta & Risotto"
       },
@@ -134,7 +134,7 @@
         "id": 3,
         "name": "Grilled Sea Bass",
         "description": "Fresh sea bass grilled to perfection with lemon and herbs",
-        "price": "€22",
+        "price": "€10",
         "image": "/images/menu/sea-bass.jpg",
         "category": "Fish"
       },
@@ -142,7 +142,7 @@
         "id": 4,
         "name": "Beef Steak",
         "description": "Premium cut beef steak cooked to your preference",
-        "price": "€25",
+        "price": "€13",
         "image": "/images/menu/tomahawk-steak.jpg",
         "category": "Meat"
       },
@@ -150,7 +150,7 @@
         "id": 5,
         "name": "Tiramisu",
         "description": "Classic Italian dessert with coffee-soaked ladyfingers and mascarpone cream",
-        "price": "€7",
+        "price": "€3.5",
         "image": "/images/menu/tiramisu.webp",
         "category": "Desserts"
       },
