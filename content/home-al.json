@@ -118,7 +118,7 @@
         "id": 1,
         "name": "Sallatë Fshati",
         "description": "Domate të freskëta, kastravecë, speca, ullinj dhe djathë feta me vaj ulliri",
-        "price": "€8",
+        "price": "€3",
         "image": "/images/menu/village-salad.jpg",
         "category": "Sallata"
       },
@@ -126,7 +126,7 @@
         "id": 2,
         "name": "Rizoto me Fruta Deti",
         "description": "Rizoto kremëz me fruta deti të freskëta dhe erëza",
-        "price": "€16",
+        "price": "€6",
         "image": "/images/menu/seafood-risotto.png",
         "category": "Pasta & Rizoto"
       },
@@ -134,7 +134,7 @@
         "id": 3,
         "name": "Levrek i Pjekur",
         "description": "Levrek i freskët i pjekur në perfeksion me limon dhe erëza",
-        "price": "€22",
+        "price": "€10",
         "image": "/images/menu/sea-bass.png",
         "category": "Peshk"
       },
@@ -142,7 +142,7 @@
         "id": 4,
         "name": "Biftek Viçi",
         "description": "Biftek viçi premium i gatuar sipas preferencës suaj",
-        "price": "€25",
+        "price": "€13",
         "image": "/images/menu/tomahawk-steak.png",
         "category": "Mish"
       },
@@ -150,7 +150,7 @@
         "id": 5,
         "name": "Tiramisu",
         "description": "Ëmbëlsirë klasike italiane me biskota të njoma në kafe dhe krem maskarponë",
-        "price": "€7",
+        "price": "€3.5",
         "image": "/images/menu/tiramisu.png",
         "category": "Ëmbëlsira"
       },
