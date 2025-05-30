@@ -127,7 +127,7 @@
         "name": "Rizoto me Fruta Deti",
         "description": "Rizoto kremëz me fruta deti të freskëta dhe erëza",
         "price": "€6",
-        "image": "/images/menu/seafood-risotto.png",
+        "image": "/images/menu/seafood-risotto.webp",
         "category": "Pasta & Rizoto"
       },
       {
@@ -135,7 +135,7 @@
         "name": "Levrek i Pjekur",
         "description": "Levrek i freskët i pjekur në perfeksion me limon dhe erëza",
         "price": "€10",
-        "image": "/images/menu/sea-bass.png",
+        "image": "/images/menu/sea-bass.jpg",
         "category": "Peshk"
       },
       {
@@ -143,7 +143,7 @@
         "name": "Biftek Viçi",
         "description": "Biftek viçi premium i gatuar sipas preferencës suaj",
         "price": "€13",
-        "image": "/images/menu/tomahawk-steak.png",
+        "image": "/images/menu/tomahawk-steak.jpg",
         "category": "Mish"
       },
       {
@@ -151,7 +151,7 @@
         "name": "Tiramisu",
         "description": "Ëmbëlsirë klasike italiane me biskota të njoma në kafe dhe krem maskarponë",
         "price": "€3.5",
-        "image": "/images/menu/tiramisu.png",
+        "image": "/images/menu/tiramisu.webp",
         "category": "Ëmbëlsira"
       },
       {
@@ -159,7 +159,7 @@
         "name": "Pica Margarita",
         "description": "Picë tradicionale me salcë domatesh, mocarela dhe borzilok të freskët",
         "price": "€3.5",
-        "image": "/images/menu/margherita.png",
+        "image": "/images/menu/margherita.jpg",
         "category": "Pica"
       }
     ]
