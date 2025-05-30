@@ -158,7 +158,7 @@
         "id": 6,
         "name": "Margherita Pizza",
         "description": "Traditional pizza with tomato sauce, mozzarella, and fresh basil",
-        "price": "€12",
+        "price": "€3.5",
         "image": "/images/menu/margherita.jpg",
         "category": "Pizza"
       }
