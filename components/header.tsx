@@ -20,6 +20,7 @@ export default function Header() {
       activities: "Activities",
       menu: "Menu",
       contact: "Contact",
+      bookNow: "Book Now",
     },
     al: {
       home: "Kryefaqja",
@@ -28,6 +29,7 @@ export default function Header() {
       activities: "Aktivitetet",
       menu: "Menu",
       contact: "Kontakt",
+      bookNow: "Rezervo Tani",
     },
   }
 
@@ -97,6 +99,15 @@ export default function Header() {
           </Link>
           {/* Language Switcher */}
           <LanguageSwitcher />
+          {/* Book Now Button */}
+          <a
+            href="https://pms.etg.al/Website/ZVVELDJDH8EFj3dU7mDsYqEZpJN9BfOH"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="ml-4 px-4 py-2 rounded-md text-white bg-[#E91E63] hover:bg-[#C2185B] font-semibold transition-colors"
+          >
+            {t.bookNow}
+          </a>
         </nav>
 
         {/* Mobile menu button */}
@@ -159,6 +170,16 @@ export default function Header() {
             >
               {t.contact}
             </Link>
+            {/* Book Now Button */}
+            <a
+              href="https://pms.etg.al/Website/ZVVELDJDH8EFj3dU7mDsYqEZpJN9BfOH"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="mt-2 py-2 text-center text-white font-semibold bg-[#E91E63] hover:bg-[#C2185B] rounded-md transition-colors"
+              onClick={toggleMenu}
+            >
+              {t.bookNow}
+            </a>
           </nav>
         </div>
       )}
