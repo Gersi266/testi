@@ -97,8 +97,6 @@ export default function Header() {
           >
             {t.contact}
           </Link>
-          {/* Language Switcher */}
-          <LanguageSwitcher />
           {/* Book Now Button */}
           <a
             href="https://pms.etg.al/Website/ZVVELDJDH8EFj3dU7mDsYqEZpJN9BfOH"
@@ -108,10 +106,13 @@ export default function Header() {
           >
             {t.bookNow}
           </a>
+          {/* Language Switcher */}
+          <LanguageSwitcher />
         </nav>
 
         {/* Mobile menu button */}
         <div className="flex items-center md:hidden">
+          {/* Language switcher remains visible */}
           <LanguageSwitcher />
           <button
             onClick={toggleMenu}
@@ -170,7 +171,7 @@ export default function Header() {
             >
               {t.contact}
             </Link>
-            {/* Book Now Button */}
+            {/* Book Now Button (before language switcher) */}
             <a
               href="https://pms.etg.al/Website/ZVVELDJDH8EFj3dU7mDsYqEZpJN9BfOH"
               target="_blank"
